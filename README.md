@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-San%20Salvador%2C%20El%20Salvador-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20AI-blueviolet?style=for-the-badge" />
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer based in **San Salvador, El Salvador**, specializing in building **scalable SaaS solutions** that solve real-world problems. With over **3 years of experience** leading and developing end-to-end projects for companies in the **United States and El Salvador**.
+Software Engineer based in **San Salvador, El Salvador**, specializing in building **scalable SaaS solutions** that solve real-world problems. With over **5 years of experience** leading and developing end-to-end projects for companies in the **United States and El Salvador**.
 
 - 🎯 **Current Role:** Software Development Project Manager & Full Stack Engineer at **eAutoClub, Inc.** (California, USA)
 - 🔭 **Working on:** SaaS platforms for automotive industry, AI automation systems
@@ -102,115 +102,49 @@ Software Engineer based in **San Salvador, El Salvador**, specializing in buildi
 
 #### 🤖 AI Voice Agent Platform
 
-> Complete AI voice agent platform with ElevenLabs integration for creating custom conversational assistants.
+> SaaS platform for creating custom AI voice conversational agents with automated knowledge base generation and subscription management.
 
-**Tech Stack:** React.js, Node.js, Express, MongoDB, ElevenLabs API, JWT, Wompi Payment Gateway, PWA
-
-**Key Features:**
-
-- Automated website scraping for knowledge base generation
-- Auto-generated knowledge base from websites and uploaded documents
-- Complete administrative dashboard with user management
-- Subscription system ($39/month) with payment gateway integration
-- Real-time agent status tracking and monitoring
-- Progressive Web App (PWA) with offline capabilities
-- Spanish voice configuration with ElevenLabs turbo model
-- Client dashboard with detailed agent information
-- JWT-based authentication with role-based access control
+**Tech Stack:** React.js, Node.js, Express, MongoDB, ElevenLabs API, JWT, Payment Gateway, PWA
 
 ---
 
 #### 🏥 Medical Clinic Management System
 
-> Complete management system for medical clinics with role-based dashboards, clinical records, and critical organ alerts.
+> Complete clinic management solution with role-based dashboards for doctors, receptionists, and administrators, featuring clinical records and appointment scheduling.
 
 **Tech Stack:** React.js, Node.js, Express, MongoDB, AWS S3, JWT Authentication
-
-**Key Features:**
-
-- **Doctor Dashboard:** Clinical metrics with interactive charts, complete medical history management, critical organ alert system
-- **Receptionist Portal:** Comprehensive appointment management, patient registration and editing, advanced patient search (by name, DUI, medical record, phone, diagnosis)
-- **Administrator Panel:** User and role management, administrative and clinical reports, system configuration
-- **Clinical History Management:** Structured medical records with organ-specific alerts (red/yellow/green color coding)
-- **Medical File Management:** Secure upload to AWS S3 with signed URLs, support for medical documents and images
-- **Unique Patient Links:** Generate secure URLs for patients to access their medical information
-- **Advanced Search System:** Multi-criteria search across patient database
-- **Appointment System:** Complete scheduling with confirmation and reminder capabilities
-- **Task Management:** Clinical task tracking for doctors
-- **Role-Based Access Control:** Three-tier system (admin, doctor, receptionist) with specific permissions
 
 ---
 
 #### ✂️ Barbershop Reservation System
 
-> Complete management and reservation system for barbershops with online payments and automated notifications.
+> Online reservation and management platform with real-time scheduling, payment integration, and automated SMS notifications.
 
-**Tech Stack:** React.js, Node.js, Express, MongoDB, Firebase, Twilio API, PHP, MySQL, JWT, OAuth (Google/Facebook)
-
-**Key Features:**
-
-- Complete barber and service management
-- Client scheduling with real-time availability
-- Hair style gallery showcase
-- Online payment integration
-- Google/Facebook OAuth authentication
-- SMS notifications via Twilio API
-- Staff performance analytics
-- Appointment reminders
+**Tech Stack:** React.js, Node.js, Express, MongoDB, Firebase, Twilio API, JWT, OAuth
 
 ---
 
 #### 🍴 Restaurant Management Software
 
-> Application for managing on-site and delivery orders with real-time table control.
+> Comprehensive solution for managing dine-in and delivery orders with real-time table control and kitchen display system.
 
-**Tech Stack:** React.js, Node.js, Express, PostgreSQL, Firebase, Render, PHP, MySQL, WebSockets, Wompi API
-
-**Key Features:**
-
-- Real-time order processing with WebSockets
-- Dynamic table management system for dine-in
-- Delivery order management and tracking
-- Live menu updates and inventory tracking
-- Administrative reports and analytics
-- Integrated billing with Wompi payment gateway
-- Multi-location support
-- Kitchen display system (KDS)
+**Tech Stack:** React.js, Node.js, Express, PostgreSQL, Firebase, WebSockets, Payment Gateway
 
 ---
 
 #### 🏘️ Residential Access Manager
 
-> Web-based access control system for private residential communities with visit scheduling and guard management.
+> Access control system for residential communities with visit scheduling, guard management, and report generation capabilities.
 
 **Tech Stack:** React.js, Node.js, Express, MongoDB, Zustand, JWT, jsPDF, xlsx
-
-**Key Features:**
-
-- **Role-Based Access:** Resident and guard dashboards with specific permissions
-- **Visit Scheduling:** Residents can schedule visits with dates and optional notes
-- **Guard Dashboard:** Real-time view of scheduled visits with check-in/check-out functionality
-- **Date Filtering:** Filter visits by specific dates for efficient management
-- **Summary Reports:** Aggregated view by polygon/house for administrative oversight
-- **Export Functionality:** Generate PDF reports and Excel spreadsheets for record-keeping
-- **JWT Authentication:** Secure token-based authentication with Zustand state management
-- **Visit History:** Complete tracking of past and upcoming visits
 
 ---
 
 #### 🚗 SaaS Platform - eAutoClub
 
-> SaaS platform to enhance customer experience in the automotive sector (California, USA).
+> Enterprise SaaS platform for the automotive industry with CRM, process automation, and multi-location support.
 
 **Tech Stack:** React.js, Node.js, TypeScript, SQL Server, Redux
-
-**Key Features:**
-
-- Complete CRM system for automotive industry
-- Customer lifecycle management
-- Process automation and workflow optimization
-- Real-time reporting and analytics dashboard
-- Multi-location support with role-based access
 
 ---
 
@@ -218,160 +152,59 @@ Software Engineer based in **San Salvador, El Salvador**, specializing in buildi
 
 #### 💇‍♀️ Beauty Salon & SPA Reservation System
 
-> Online booking application with admin panel, stylist profiles, and automated SMS notifications.
+> Online booking system with service management, stylist profiles, and automated client notifications.
 
 **Tech Stack:** React.js, Node.js, Express, Twilio API
-**Features:** Service management, blog, gallery, automated SMS notifications via Twilio, stylist profiles
 
 ---
 
 #### 🚗 Vehicle Rental Management System
 
-> Complete car rental management with automated contracts, fleet control, and damage history tracking.
+> Fleet management platform with automated contract generation, damage tracking, and online payment processing.
 
 **Tech Stack:** React.js, Node.js, Express, PostgreSQL, AWS S3
-**Features:** Client registration, automated PDF contracts, fleet management, damage history, insurance tracking, online payments
 
 ---
 
 #### 🛒 E-commerce SaaS Platform
 
-> Multi-tenant e-commerce platform with admin dashboard and payment gateway integration.
+> Multi-tenant e-commerce solution with admin dashboard, product catalog, and integrated payment processing.
 
-**Tech Stack:** React.js, Node.js, MongoDB, Firebase, Wompi API
-**Features:** Intuitive admin panel, product catalog, WhatsApp integration, Excel/PDF report generation, Wompi payment gateway
+**Tech Stack:** React.js, Node.js, MongoDB, Firebase, Payment Gateway
 
 ---
 
 ### 💼 Professional Experience
 
-```javascript
-const rafael = {
-  currentRole: {
-    title: "Software Development Project Manager & Full Stack Engineer",
-    company: "eAutoClub, Inc.",
-    location: "California, USA (Remote)",
-    period: "2022 - Present",
-    responsibilities: [
-      "Coordinating development teams using Agile/Scrum methodologies",
-      "Designing and implementing SaaS platforms for automotive industry",
-      "Full stack development with React, Node.js, TypeScript",
-      "Leading cost optimization and process improvement initiatives",
-      "Ensuring timely delivery aligned with client requirements",
-    ],
-  },
+#### 🚀 Software Development Project Manager & Full Stack Engineer
 
-  previousRoles: [
-    {
-      title: "Full Stack Developer",
-      company: "ITO El Salvador",
-      tech: ["MERN Stack", "React Native", "REST APIs", "MongoDB"],
-    },
-    {
-      title: "Full Stack Developer",
-      company: "ASESUISA",
-      tech: ["React.js", "Node.js", "SQL", "Automation"],
-    },
-    {
-      title: "Freelance Web Developer",
-      projects: [
-        "Administrative web apps",
-        "React + Ant Design",
-        "Responsive UX",
-      ],
-    },
-  ],
+**eAutoClub, Inc.** | California, USA (Remote) | _2022 - Present_
 
-  expertise: {
-    frontend: [
-      "React.js",
-      "React Native",
-      "Redux",
-      "TypeScript",
-      "TailwindCSS",
-      "Ant Design",
-    ],
-    backend: ["Node.js", "Express", "REST APIs", "WebSockets", "Microservices"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL", "SQL Server", "Firebase"],
-    ai: [
-      "OpenAI",
-      "Google Gemini",
-      "Claude AI",
-      "ElevenLabs",
-      "n8n",
-      "Zapier",
-      "Make",
-      "Lumen5",
-    ],
-    communications: ["Twilio API", "SMS/WhatsApp Integration"],
-    cloud: ["AWS S3", "Firebase", "Render", "File Storage"],
-    management: [
-      "Scrum Master",
-      "Agile",
-      "Project Planning",
-      "Team Leadership",
-    ],
-    devOps: ["Git/GitHub", "CI/CD", "Docker", "Version Control"],
-  },
+Leading development of enterprise SaaS platforms for the automotive industry, coordinating international teams using Agile/Scrum methodologies, and driving technical innovation with modern full-stack technologies.
 
-  education: {
-    degree: "Software Engineering",
-    institution: "ITCA-FEPADE",
-    graduation: "2018-2020",
-    honors: "CUM Laude",
-    focus: ["Programming", "Networks", "Technical Support"],
-  },
+---
 
-  certifications: {
-    platform: "Platzi",
-    count: "34",
-    period: "2020-2025",
-    categories: {
-      recentCertifications: [
-        "N8N Automation (2025)",
-        "Test Automation (2023)",
-        "Project Management (2023)",
-        "Professional Scrum (2023)",
-        "Advanced React (2023)",
-        "Node.js with MongoDB & WebSockets (2023)",
-      ],
-      coreDevelopment: [
-        "Professional JavaScript",
-        "ECMAScript 6+",
-        "React.js & Redux",
-        "Backend with Node.js",
-        "Authentication with Passport.js",
-        "Professional Git & GitHub",
-      ],
-      softSkills: [
-        "Effective Time Management",
-        "Project Management Fundamentals",
-        "User Stories in Scrum",
-        "Online Learning Strategies",
-      ],
-      english: [
-        "Practical English",
-        "Basic English A1",
-        "English Learning Strategies",
-      ],
-    },
-  },
+#### 💻 Full Stack Developer
 
-  achievements: [
-    "Led SaaS development for US automotive company",
-    "Built AI Voice Agent Platform with ElevenLabs integration",
-    "Developed Medical Clinic Management System with organ alert system",
-    "Created 9+ production-ready SaaS applications across multiple industries",
-    "Implemented reservation systems for salons, barbershops, and restaurants",
-    "Built e-commerce platform with multi-tenant architecture",
-    "Graduated with CUM Laude honors in Software Engineering",
-    "Completed 34 professional certifications on Platzi (2020-2025)",
-    "Implemented secure JWT authentication and AWS S3 integration",
-    "Integrated payment gateways (Wompi, Stripe) and SMS APIs (Twilio)",
-    "Managed international teams using Agile/Scrum methodologies",
-  ],
-};
-```
+**ITO El Salvador** | El Salvador
+
+Developed scalable web and mobile applications using MERN Stack and React Native, delivering REST APIs and database solutions for enterprise clients.
+
+---
+
+#### 💻 Full Stack Developer
+
+**ASESUISA** | El Salvador
+
+Built full-stack solutions with React.js and Node.js, implementing automation systems and database integrations to optimize business processes.
+
+---
+
+#### 🌐 Freelance Web Developer
+
+**Independent** | Remote
+
+Delivered custom administrative web applications with modern UI frameworks, focusing on responsive design and exceptional user experience.
 
 ---
 
