@@ -241,7 +241,7 @@ Delivered custom administrative web applications with modern UI frameworks, focu
 | Platform                                                                                                                  | Total Certifications | Period    |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- |
 | ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)                     | 34 Courses Completed | 2020-2025 |
-| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Cloud Digital Leader | 2024      |
+| ![Scrum Network](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white) | Scrum Essentials (TSE) | 2024      |
 
 </div>
 
@@ -249,7 +249,7 @@ Delivered custom administrative web applications with modern UI frameworks, focu
 
 | Certification                                       | Issuer                             | Year | Credential                                                                         |
 | --------------------------------------------------- | ---------------------------------- | ---- | ---------------------------------------------------------------------------------- |
-| ☁️ **Cloud Digital Leader**                         | Google Cloud                       | 2024 | [View Credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) |
+| ☁️ **Scrum Essentials (TSE)**                         | Scrum Network                       | 2024 | [View Credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) |
 | 🎓 **Fullstack JavaScript Development** (280 hours) | Government of El Salvador & Platzi | 2021 | Official Diploma                                                                   |
 
 #### 📚 Recent Certifications (2023-2025)
