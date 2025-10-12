@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-martinez-SV"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://platzi.com/p/tu-usuario"><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" /></a>
+  <a href="mailto:rafaelvady.q@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://platzi.com/p/vlady-martinez/"><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -20,22 +20,23 @@
 
 ### 👨‍💻 About Me
 
-Ingeniero de software con sede en **San Salvador, El Salvador**, especializado en construir **soluciones SaaS escalables** que resuelven problemas reales. Con más de **3 años de experiencia** liderando y desarrollando proyectos de extremo a extremo para empresas en **Estados Unidos y El Salvador**.
+Software Engineer based in **San Salvador, El Salvador**, specializing in building **scalable SaaS solutions** that solve real-world problems. With over **3 years of experience** leading and developing end-to-end projects for companies in the **United States and El Salvador**.
 
-- 🎯 **Current Role:** Software Development Project Manager & Full Stack Engineer en **eAutoClub, Inc.** (California, USA)
-- 🔭 **Working on:** Plataformas SaaS para el sector automotriz, sistemas de automatización con AI
+- 🎯 **Current Role:** Software Development Project Manager & Full Stack Engineer at **eAutoClub, Inc.** (California, USA)
+- 🔭 **Working on:** SaaS platforms for automotive industry, AI automation systems
 - 🌱 **Learning:** Docker, Kubernetes, Advanced AI integrations (ElevenLabs, OpenAI)
 - 💼 **Specialization:** MERN Stack, React Native, AI Automation, Project Management
-- 📚 **Education:** Ingeniería en Sistemas Informáticos - ITCA-FEPADE (CUM Laude)
-- 🎓 **Continuous Learning:** 30+ certificaciones en Platzi (JavaScript, React, Node.js, Scrum, n8n)
-- 🌍 **Languages:** Español (nativo), Inglés (profesional completo)
-- 📫 **Reach me:** tu-email@gmail.com
+- 📚 **Education:** Software Engineering - ITCA-FEPADE (CUM Laude)
+- 🎓 **Continuous Learning:** 34+ certifications on Platzi (JavaScript, React, Node.js, Scrum, n8n, Testing)
+- 🌍 **Languages:** Spanish (native), English (professional proficiency)
+- 📫 **Reach me:** rafaelvady.q@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -43,9 +44,12 @@ Ingeniero de software con sede en **San Salvador, El Salvador**, especializado e
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -54,17 +58,27 @@ Ingeniero de software con sede en **San Salvador, El Salvador**, especializado e
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 #### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
-#### DevOps & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Lumen5](https://img.shields.io/badge/Lumen5-00C4CC?style=for-the-badge&logo=video&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+
+#### DevOps & Cloud
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 #### Project Management
+
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -87,34 +101,145 @@ Ingeniero de software con sede en **San Salvador, El Salvador**, especializado e
 ### 🚀 Featured Projects
 
 #### 🤖 AI Voice Agent Platform
-> Plataforma completa de agentes de voz IA con integración ElevenLabs para crear asistentes conversacionales personalizados.
 
-**Tech:** React.js, Node.js, Express, MongoDB, ElevenLabs API, JWT, Wompi Payment Gateway, PWA
-**Features:** Auto-scraping de sitios web, Knowledge Base automática, Panel administrativo, Sistema de suscripciones ($39/mes)
+> Complete AI voice agent platform with ElevenLabs integration for creating custom conversational assistants.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RafaDev-IT/ai-voice-agent-platform)
+**Tech Stack:** React.js, Node.js, Express, MongoDB, ElevenLabs API, JWT, Wompi Payment Gateway, PWA
 
-#### ✂️ Software de Reservas para Barberías
-> Sistema completo de gestión y reservas para barberías con pagos en línea y notificaciones automáticas.
+**Key Features:**
 
-**Tech:** React.js, Node.js, MongoDB, JWT, OAuth (Google/Facebook)
-**Features:** Gestión de clientes, servicios, horarios, pagos en línea, notificaciones push
+- Automated website scraping for knowledge base generation
+- Auto-generated knowledge base from websites and uploaded documents
+- Complete administrative dashboard with user management
+- Subscription system ($39/month) with payment gateway integration
+- Real-time agent status tracking and monitoring
+- Progressive Web App (PWA) with offline capabilities
+- Spanish voice configuration with ElevenLabs turbo model
+- Client dashboard with detailed agent information
+- JWT-based authentication with role-based access control
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RafaDev-IT/barberia-reservas)
+---
 
-#### 🍴 Software para Restaurantes
-> Aplicación para gestionar pedidos en sitio y a domicilio con control de mesas en tiempo real.
+#### 🏥 Medical Clinic Management System
 
-**Tech:** React.js, Node.js, Express.js, WebSockets, Wompi API
-**Features:** Pedidos en tiempo real, gestión de mesas, menús dinámicos, reportes administrativos, facturación integrada
+> Complete management system for medical clinics with role-based dashboards, clinical records, and critical organ alerts.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RafaDev-IT/restaurant-management)
+**Tech Stack:** React.js, Node.js, Express, MongoDB, AWS S3, JWT Authentication
+
+**Key Features:**
+
+- **Doctor Dashboard:** Clinical metrics with interactive charts, complete medical history management, critical organ alert system
+- **Receptionist Portal:** Comprehensive appointment management, patient registration and editing, advanced patient search (by name, DUI, medical record, phone, diagnosis)
+- **Administrator Panel:** User and role management, administrative and clinical reports, system configuration
+- **Clinical History Management:** Structured medical records with organ-specific alerts (red/yellow/green color coding)
+- **Medical File Management:** Secure upload to AWS S3 with signed URLs, support for medical documents and images
+- **Unique Patient Links:** Generate secure URLs for patients to access their medical information
+- **Advanced Search System:** Multi-criteria search across patient database
+- **Appointment System:** Complete scheduling with confirmation and reminder capabilities
+- **Task Management:** Clinical task tracking for doctors
+- **Role-Based Access Control:** Three-tier system (admin, doctor, receptionist) with specific permissions
+
+---
+
+#### ✂️ Barbershop Reservation System
+
+> Complete management and reservation system for barbershops with online payments and automated notifications.
+
+**Tech Stack:** React.js, Node.js, Express, MongoDB, Firebase, Twilio API, PHP, MySQL, JWT, OAuth (Google/Facebook)
+
+**Key Features:**
+
+- Complete barber and service management
+- Client scheduling with real-time availability
+- Hair style gallery showcase
+- Online payment integration
+- Google/Facebook OAuth authentication
+- SMS notifications via Twilio API
+- Staff performance analytics
+- Appointment reminders
+
+---
+
+#### 🍴 Restaurant Management Software
+
+> Application for managing on-site and delivery orders with real-time table control.
+
+**Tech Stack:** React.js, Node.js, Express, PostgreSQL, Firebase, Render, PHP, MySQL, WebSockets, Wompi API
+
+**Key Features:**
+
+- Real-time order processing with WebSockets
+- Dynamic table management system for dine-in
+- Delivery order management and tracking
+- Live menu updates and inventory tracking
+- Administrative reports and analytics
+- Integrated billing with Wompi payment gateway
+- Multi-location support
+- Kitchen display system (KDS)
+
+---
+
+#### 🏘️ Residential Access Manager
+
+> Web-based access control system for private residential communities with visit scheduling and guard management.
+
+**Tech Stack:** React.js, Node.js, Express, MongoDB, Zustand, JWT, jsPDF, xlsx
+
+**Key Features:**
+
+- **Role-Based Access:** Resident and guard dashboards with specific permissions
+- **Visit Scheduling:** Residents can schedule visits with dates and optional notes
+- **Guard Dashboard:** Real-time view of scheduled visits with check-in/check-out functionality
+- **Date Filtering:** Filter visits by specific dates for efficient management
+- **Summary Reports:** Aggregated view by polygon/house for administrative oversight
+- **Export Functionality:** Generate PDF reports and Excel spreadsheets for record-keeping
+- **JWT Authentication:** Secure token-based authentication with Zustand state management
+- **Visit History:** Complete tracking of past and upcoming visits
+
+---
 
 #### 🚗 SaaS Platform - eAutoClub
-> Plataforma SaaS para mejorar la experiencia del cliente en el sector automotriz (California, USA).
 
-**Tech:** React.js, Node.js, TypeScript, SQL Server, Redux
-**Features:** Sistema CRM, gestión de clientes, automatización de procesos, reportes en tiempo real
+> SaaS platform to enhance customer experience in the automotive sector (California, USA).
+
+**Tech Stack:** React.js, Node.js, TypeScript, SQL Server, Redux
+
+**Key Features:**
+
+- Complete CRM system for automotive industry
+- Customer lifecycle management
+- Process automation and workflow optimization
+- Real-time reporting and analytics dashboard
+- Multi-location support with role-based access
+
+---
+
+### 📂 Additional Projects
+
+#### 💇‍♀️ Beauty Salon & SPA Reservation System
+
+> Online booking application with admin panel, stylist profiles, and automated SMS notifications.
+
+**Tech Stack:** React.js, Node.js, Express, Twilio API
+**Features:** Service management, blog, gallery, automated SMS notifications via Twilio, stylist profiles
+
+---
+
+#### 🚗 Vehicle Rental Management System
+
+> Complete car rental management with automated contracts, fleet control, and damage history tracking.
+
+**Tech Stack:** React.js, Node.js, Express, PostgreSQL, AWS S3
+**Features:** Client registration, automated PDF contracts, fleet management, damage history, insurance tracking, online payments
+
+---
+
+#### 🛒 E-commerce SaaS Platform
+
+> Multi-tenant e-commerce platform with admin dashboard and payment gateway integration.
+
+**Tech Stack:** React.js, Node.js, MongoDB, Firebase, Wompi API
+**Features:** Intuitive admin panel, product catalog, WhatsApp integration, Excel/PDF report generation, Wompi payment gateway
 
 ---
 
@@ -132,64 +257,119 @@ const rafael = {
       "Designing and implementing SaaS platforms for automotive industry",
       "Full stack development with React, Node.js, TypeScript",
       "Leading cost optimization and process improvement initiatives",
-      "Ensuring timely delivery aligned with client requirements"
-    ]
+      "Ensuring timely delivery aligned with client requirements",
+    ],
   },
 
   previousRoles: [
     {
       title: "Full Stack Developer",
       company: "ITO El Salvador",
-      tech: ["MERN Stack", "React Native", "REST APIs", "MongoDB"]
+      tech: ["MERN Stack", "React Native", "REST APIs", "MongoDB"],
     },
     {
       title: "Full Stack Developer",
       company: "ASESUISA",
-      tech: ["React.js", "Node.js", "SQL", "Automation"]
+      tech: ["React.js", "Node.js", "SQL", "Automation"],
     },
     {
       title: "Freelance Web Developer",
-      projects: ["Administrative web apps", "React + Ant Design", "Responsive UX"]
-    }
+      projects: [
+        "Administrative web apps",
+        "React + Ant Design",
+        "Responsive UX",
+      ],
+    },
   ],
 
   expertise: {
-    frontend: ["React.js", "React Native", "Redux", "TypeScript", "Ant Design"],
+    frontend: [
+      "React.js",
+      "React Native",
+      "Redux",
+      "TypeScript",
+      "TailwindCSS",
+      "Ant Design",
+    ],
     backend: ["Node.js", "Express", "REST APIs", "WebSockets", "Microservices"],
-    databases: ["MongoDB", "MySQL", "SQL Server", "NoSQL"],
-    ai: ["n8n Automation", "ElevenLabs", "OpenAI", "Web Scraping"],
-    management: ["Scrum Master", "Agile", "Project Planning", "Team Leadership"],
-    devOps: ["Git/GitHub", "CI/CD", "Docker", "Version Control"]
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "SQL Server", "Firebase"],
+    ai: [
+      "OpenAI",
+      "Google Gemini",
+      "Claude AI",
+      "ElevenLabs",
+      "n8n",
+      "Zapier",
+      "Make",
+      "Lumen5",
+    ],
+    communications: ["Twilio API", "SMS/WhatsApp Integration"],
+    cloud: ["AWS S3", "Firebase", "Render", "File Storage"],
+    management: [
+      "Scrum Master",
+      "Agile",
+      "Project Planning",
+      "Team Leadership",
+    ],
+    devOps: ["Git/GitHub", "CI/CD", "Docker", "Version Control"],
   },
 
   education: {
-    degree: "Ingeniería en Sistemas Informáticos",
+    degree: "Software Engineering",
     institution: "ITCA-FEPADE",
     graduation: "2018-2020",
     honors: "CUM Laude",
-    focus: ["Programming", "Networks", "Technical Support"]
+    focus: ["Programming", "Networks", "Technical Support"],
   },
 
   certifications: {
     platform: "Platzi",
-    count: "30+",
-    topics: [
-      "JavaScript Advanced", "React.js Professional", "Node.js",
-      "SQL/NoSQL Databases", "Git & GitHub", "Scrum Master",
-      "n8n Automation", "Project Management"
-    ]
+    count: "34",
+    period: "2020-2025",
+    categories: {
+      recentCertifications: [
+        "N8N Automation (2025)",
+        "Test Automation (2023)",
+        "Project Management (2023)",
+        "Professional Scrum (2023)",
+        "Advanced React (2023)",
+        "Node.js with MongoDB & WebSockets (2023)",
+      ],
+      coreDevelopment: [
+        "Professional JavaScript",
+        "ECMAScript 6+",
+        "React.js & Redux",
+        "Backend with Node.js",
+        "Authentication with Passport.js",
+        "Professional Git & GitHub",
+      ],
+      softSkills: [
+        "Effective Time Management",
+        "Project Management Fundamentals",
+        "User Stories in Scrum",
+        "Online Learning Strategies",
+      ],
+      english: [
+        "Practical English",
+        "Basic English A1",
+        "English Learning Strategies",
+      ],
+    },
   },
 
   achievements: [
     "Led SaaS development for US automotive company",
     "Built AI Voice Agent Platform with ElevenLabs integration",
-    "Developed 5+ production-ready SaaS applications",
+    "Developed Medical Clinic Management System with organ alert system",
+    "Created 9+ production-ready SaaS applications across multiple industries",
+    "Implemented reservation systems for salons, barbershops, and restaurants",
+    "Built e-commerce platform with multi-tenant architecture",
     "Graduated with CUM Laude honors in Software Engineering",
-    "Completed 30+ professional certifications on Platzi",
-    "Implemented secure JWT authentication systems",
-    "Created automated web scraping solutions",
-    "Managed teams using Agile/Scrum methodologies"
-  ]
+    "Completed 34 professional certifications on Platzi (2020-2025)",
+    "Implemented secure JWT authentication and AWS S3 integration",
+    "Integrated payment gateways (Wompi, Stripe) and SMS APIs (Twilio)",
+    "Managed international teams using Agile/Scrum methodologies",
+  ],
 };
 ```
 
@@ -197,16 +377,21 @@ const rafael = {
 
 ### 🌟 What I Build
 
-- 🤖 **AI-Powered Applications** - Voice agents, automation, intelligent systems
-- 🏢 **SaaS Platforms** - Scalable, subscription-based web applications
-- 📱 **Mobile Applications** - React Native apps for iOS & Android
-- 🔐 **Secure Authentication** - JWT, OAuth, role-based access control
-- 💳 **Payment Integrations** - Stripe, PayPal, Wompi gateways
-- 📧 **Email Automation** - SMTP integration, custom templates
-- 🌐 **Web Scraping** - Intelligent crawlers, data extraction
-- 📊 **Admin Dashboards** - Real-time analytics, CRUD operations
-- 🔄 **Process Automation** - n8n workflows, API integrations
-- 📱 **Progressive Web Apps** - Installable, offline-capable
+- 🤖 **AI-Powered Applications** - Voice agents with ElevenLabs, chatbots with OpenAI/Gemini/Claude
+- 🔄 **Workflow Automation** - n8n, Zapier, Make integrations for business process automation
+- 📱 **Communication Systems** - SMS/WhatsApp integration with Twilio API
+- 🎥 **AI Video Creation** - Lumen5 integration for automated video content generation
+- 🏥 **Healthcare Solutions** - Medical clinic management, clinical records, appointment systems
+- 🏢 **SaaS Platforms** - Scalable, subscription-based enterprise applications
+- 📅 **Booking Systems** - Reservation platforms for salons, barbershops, restaurants
+- 🛒 **E-commerce Solutions** - Multi-tenant platforms with payment integration
+- 🚗 **Rental Management** - Vehicle and asset rental systems with contract automation
+- 🏘️ **Access Control Systems** - Residential security with role-based permissions
+- 🔐 **Secure Authentication** - JWT, OAuth, social login implementations
+- 💳 **Payment Integrations** - Stripe, PayPal, Wompi gateway implementations
+- 📊 **Admin Dashboards** - Real-time analytics with interactive visualizations
+- ☁️ **Cloud Solutions** - AWS S3, Firebase, Render deployments
+- 📱 **Progressive Web Apps** - Installable, offline-capable web applications
 
 ---
 
@@ -220,24 +405,84 @@ const rafael = {
 
 <div align="center">
 
-| Platform | Certifications | Year |
-|----------|----------------|------|
-| ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white) | 30+ Courses | 2019-Present |
-| **Recent Certifications** | | |
-| ✅ Curso de N8N | Platzi | 2025 |
-| ✅ Curso Práctico de Project Management | Platzi | 2023 |
-| ✅ React.js Professional | Platzi | - |
-| ✅ Node.js Advanced | Platzi | - |
-| ✅ SQL/NoSQL Databases | Platzi | - |
-| ✅ Scrum Master Certification | Platzi | - |
+| Platform                                                                                                                  | Total Certifications | Period    |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- |
+| ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)                     | 34 Courses Completed | 2020-2025 |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Cloud Digital Leader | 2024      |
 
 </div>
+
+#### 🏆 Professional Certifications
+
+| Certification                                       | Issuer                             | Year | Credential                                                                         |
+| --------------------------------------------------- | ---------------------------------- | ---- | ---------------------------------------------------------------------------------- |
+| ☁️ **Cloud Digital Leader**                         | Google Cloud                       | 2024 | [View Credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) |
+| 🎓 **Fullstack JavaScript Development** (280 hours) | Government of El Salvador & Platzi | 2021 | Official Diploma                                                                   |
+
+#### 📚 Recent Certifications (2023-2025)
+
+| Course                               | Completed  | Category   |
+| ------------------------------------ | ---------- | ---------- |
+| 🔄 N8N Automation                    | July 2025  | Automation |
+| 🧪 Introduction to Test Automation   | Oct 2023   | Testing    |
+| 📊 Practical Project Management      | June 2023  | Management |
+| 📝 User Stories in Scrum             | March 2023 | Agile      |
+| 🎯 Professional Scrum                | March 2023 | Agile      |
+| ⚛️ Advanced React                    | March 2023 | Frontend   |
+| 🗄️ Node.js with MongoDB & WebSockets | March 2023 | Backend    |
+
+#### 💻 Core Development (2020-2022)
+
+**JavaScript & Frontend:**
+
+- Professional JavaScript (2020)
+- ECMAScript 6+ (2020)
+- Asynchronous JavaScript (2020)
+- React.js Practical (2020)
+- React Router 5 & Redux (2020)
+- Frontend Developer (2020)
+- JavaScript Fundamentals (2020)
+- Basic JavaScript (2020)
+
+**Backend & Node.js:**
+
+- Backend with Node.js (2020)
+- Node.js Fundamentals (2020)
+- Server Side Render with Express (2020)
+- Authentication with Passport.js (2020)
+- Introduction to Backend Development (2022)
+- Introduction to C# with .NET 3.1 (2022)
+
+**Tools & Best Practices:**
+
+- Professional Git & GitHub (2020)
+- macOS Development Environment (2020)
+- Basic Programming (2022)
+- Algorithms & Flowcharts (2022)
+
+#### 🌍 English Language
+
+- Practical English for Personal Descriptions (2022)
+- Basic English for Beginners (2022)
+- Basic English A1: Short Conversations (2022)
+- Strategies for Learning English Online (2022)
+
+#### 🎯 Soft Skills & Management
+
+- Effective Time Management (2020)
+- Project Management Fundamentals (2020)
+- Strategies for Effective Online Learning (2020)
+- Basic Computing & IT (2022)
+
+#### 🌟 Specialized
+
+- Bitcoin for El Salvador (2022)
 
 ---
 
 ### 🌍 Languages
 
-- 🇪🇸 **Español:** Nativo
+- 🇪🇸 **Spanish:** Native
 - 🇺🇸 **English:** Professional Working Proficiency
 
 ---
@@ -249,11 +494,17 @@ Technical Skills:
   - Full Stack Development (MERN Stack)
   - Mobile Development (React Native)
   - RESTful API Design & Integration
-  - Database Design (SQL & NoSQL)
-  - AI & Automation (n8n, ElevenLabs, OpenAI)
-  - Payment Gateway Integration
+  - Database Design (SQL & NoSQL - MongoDB, PostgreSQL, MySQL, Firebase)
+  - AI Integrations (OpenAI, Google Gemini, Claude AI, ElevenLabs)
+  - Workflow Automation (n8n, Zapier, Make)
+  - Communication APIs (Twilio - SMS/WhatsApp)
+  - Video AI Tools (Lumen5)
+  - Cloud Services (AWS S3, Firebase, Render)
+  - Payment Gateway Integration (Wompi, Stripe, PayPal)
   - Web Scraping & Data Extraction
   - Authentication & Security (JWT, OAuth)
+  - Progressive Web Apps (PWA)
+  - Real-time Systems (WebSockets)
 
 Management Skills:
   - Agile/Scrum Methodologies
@@ -263,6 +514,7 @@ Management Skills:
   - Requirements Analysis
   - Sprint Planning & Execution
   - Cost Optimization
+  - Risk Management
 
 Soft Skills:
   - Problem Solving
@@ -270,6 +522,7 @@ Soft Skills:
   - Effective Communication
   - Time Management
   - Continuous Learning
+  - Adaptability
   - Bilingual (Spanish/English)
 ```
 
@@ -279,18 +532,19 @@ Soft Skills:
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rafael-martinez-SV)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-  [![Platzi](https://img.shields.io/badge/Platzi-Follow-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/tu-usuario)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rafadev-it.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rafael-martinez-SV)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelvady.q@gmail.com)
+[![Platzi](https://img.shields.io/badge/Platzi-Follow-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/vlady-martinez/)
 
   <br/>
 
-  **Open to:**
-  - 💼 Full-time opportunities (Remote)
-  - 🤝 Freelance projects
-  - 🚀 SaaS collaborations
-  - 🤖 AI/Automation consulting
+**Open to:**
+
+- 💼 Full-time opportunities (Remote)
+- 🤝 Freelance projects
+- 🚀 SaaS collaborations
+- 🤖 AI/Automation consulting
+- 🏥 Healthcare tech projects
 
 </div>
 
@@ -306,5 +560,5 @@ Soft Skills:
   <br/><br/>
   <i>"Building solutions that matter, one line of code at a time."</i>
   <br/><br/>
-  <b>⚡ Available for SaaS projects, AI integrations, and technical consulting ⚡</b>
+  <b>⚡ Available for SaaS projects, AI integrations, healthcare solutions, and technical consulting ⚡</b>
 </div>
