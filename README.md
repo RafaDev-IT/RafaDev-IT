@@ -293,13 +293,6 @@ Delivered custom administrative web applications with modern UI frameworks, focu
 - Basic Programming (2022)
 - Algorithms & Flowcharts (2022)
 
-#### 🌍 English Language
-
-- Practical English for Personal Descriptions (2022)
-- Basic English for Beginners (2022)
-- Basic English A1: Short Conversations (2022)
-- Strategies for Learning English Online (2022)
-
 #### 🎯 Soft Skills & Management
 
 - Effective Time Management (2020)
