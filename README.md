@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E3A8A,100:3B82F6&amp;height=190&amp;section=header&amp;text=Rafael%20Martinez&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=34&amp;desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Security-Focused&amp;descSize=17&amp;descAlignY=54&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E3A8A,100:3B82F6&amp;height=190&amp;section=header&amp;text=Rafael%20Martinez&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=34&amp;%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Security-Focused&amp;descSize=17&amp;descAlignY=54&amp;animation=fadeIn" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=26&amp;duration=2800&amp;pause=2000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Production+systems+for+banking+%26+enterprise;End-to-end+encryption+%26+digital+signatures;AI+voice+agents+%26+self-hosted+LLMs;Multi-tenant+SaaS+%C2%B7+30+systems+shipped" alt="Typing SVG" />
-</div>
 
-<p align="center">
+### Full Stack Engineer &nbsp;·&nbsp; AI &amp; Automation &nbsp;·&nbsp; Security-Focused
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;duration=2800&amp;pause=2000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Production+systems+for+banking+%26+enterprise;End-to-end+encryption+%26+digital+signatures;AI+voice+agents+%26+self-hosted+LLMs;Multi-tenant+SaaS+%C2%B7+30+systems+shipped" alt="What I build" />
+
+<p>
   <a href="https://www.linkedin.com/in/rafael-martinez-SV"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:rafaelvady.q@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>
@@ -63,20 +65,20 @@ I work across the whole lifecycle: requirements, architecture, implementation, s
 
 #### 🤖 AI & Automation
 
-| | |
-| --- | --- |
-| **Cloud APIs** | OpenAI API · Google Gemini · Claude · ElevenLabs |
-| **Self-hosted models** | **Ollama** · **GPT-OSS** · open-weight LLMs · on-prem inference |
-| **Retrieval & orchestration** | RAG pipelines · Pinecone (vector DB) · embeddings · n8n |
-| **Messaging & workflow** | Twilio (SMS/WhatsApp) · Web Push · Zapier · Make |
+|                               |                                                                 |
+| ----------------------------- | --------------------------------------------------------------- |
+| **Cloud APIs**                | OpenAI API · Google Gemini · Claude · ElevenLabs                |
+| **Self-hosted models**        | **Ollama** · **GPT-OSS** · open-weight LLMs · on-prem inference |
+| **Retrieval & orchestration** | RAG pipelines · Pinecone (vector DB) · embeddings · n8n         |
+| **Messaging & workflow**      | Twilio (SMS/WhatsApp) · Web Push · Zapier · Make                |
 
 #### 🔐 Security
 
-| | |
-| --- | --- |
-| **Cryptography** | RSA-2048 (OAEP/SHA-256) · AES-256-GCM · SHA-256 · bcrypt |
-| **Auth & access** | JWT (HS256) · OAuth 2.0 · OTP / MFA · RBAC with record-level ownership |
-| **Hardening** | Helmet · CORS allow-lists · rate limiting · input sanitization (NoSQL / XSS) · OWASP practices |
+|                   |                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------- |
+| **Cryptography**  | RSA-2048 (OAEP/SHA-256) · AES-256-GCM · SHA-256 · bcrypt                                       |
+| **Auth & access** | JWT (HS256) · OAuth 2.0 · OTP / MFA · RBAC with record-level ownership                         |
+| **Hardening**     | Helmet · CORS allow-lists · rate limiting · input sanitization (NoSQL / XSS) · OWASP practices |
 
 #### 📊 Ways of Working
 
@@ -88,20 +90,20 @@ Agile · Scrum · Jira · technical proposals · requirements analysis · sprint
 
 Things I've built that go beyond standard CRUD work:
 
-| | Highlight |
-|---|---|
-| 🔐 | **End-to-end encryption layer** (RSA-2048 OAEP + AES-256-GCM) on top of HTTPS, designed to pass banking security audits — transparent to controllers and UI components |
-| 🔏 | **Auditable electronic signature** using SHA-256 checksums derived from timestamp, client IP, OTP and document correlative — reproducible and verifiable from stored data |
-| ⚙️ | **Safe concurrency on SQL Server** — pessimistic locking (`UPDLOCK`, `READPAST`) plus unique constraints and retry logic for atomic queue numbering under load |
-| 📄 | **HTML-to-PDF rendering engine** — custom Thymeleaf-style template processor (Cheerio) + Puppeteer, generating signed documents at scale |
-| 🧠 | **RAG pipelines** with vector databases + OpenAI embeddings, orchestrated through n8n |
-| 🖥️ | **Self-hosted LLM inference** — private models running on my own infrastructure via **Ollama** (GPT-OSS and other open-weight models): zero per-token cost, no data leaving the client's network, and a viable path for regulated environments where sending data to a third-party API is not an option |
-| 🔀 | **Provider-agnostic AI layer** — same application logic served by cloud APIs (OpenAI, Gemini, Claude) or a local model, so the deployment decides the trade-off between cost, latency and privacy |
-| 🗣️ | **Automated AI voice agent provisioning** — website scraping → knowledge base → ElevenLabs agent creation, fully programmatic |
-| 🔄 | **Real-time systems** with Socket.IO — room-based event routing, live dashboards, push notifications |
-| ☸️ | **Containerized delivery** — Docker multi-stage builds, Kubernetes on AWS EKS, CI/CD with GitHub Actions |
-| 🔍 | **Automatic database introspection** — schema and relationship inference across MongoDB and SQL Server |
-| 📊 | **Observability** — structured logging with PII redaction (pino), in-memory metrics with p50/p95 histograms, immutable audit trails |
+|     | Highlight                                                                                                                                                                                                                                                                                               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔐  | **End-to-end encryption layer** (RSA-2048 OAEP + AES-256-GCM) on top of HTTPS, designed to pass banking security audits — transparent to controllers and UI components                                                                                                                                  |
+| 🔏  | **Auditable electronic signature** using SHA-256 checksums derived from timestamp, client IP, OTP and document correlative — reproducible and verifiable from stored data                                                                                                                               |
+| ⚙️  | **Safe concurrency on SQL Server** — pessimistic locking (`UPDLOCK`, `READPAST`) plus unique constraints and retry logic for atomic queue numbering under load                                                                                                                                          |
+| 📄  | **HTML-to-PDF rendering engine** — custom Thymeleaf-style template processor (Cheerio) + Puppeteer, generating signed documents at scale                                                                                                                                                                |
+| 🧠  | **RAG pipelines** with vector databases + OpenAI embeddings, orchestrated through n8n                                                                                                                                                                                                                   |
+| 🖥️  | **Self-hosted LLM inference** — private models running on my own infrastructure via **Ollama** (GPT-OSS and other open-weight models): zero per-token cost, no data leaving the client's network, and a viable path for regulated environments where sending data to a third-party API is not an option |
+| 🔀  | **Provider-agnostic AI layer** — same application logic served by cloud APIs (OpenAI, Gemini, Claude) or a local model, so the deployment decides the trade-off between cost, latency and privacy                                                                                                       |
+| 🗣️  | **Automated AI voice agent provisioning** — website scraping → knowledge base → ElevenLabs agent creation, fully programmatic                                                                                                                                                                           |
+| 🔄  | **Real-time systems** with Socket.IO — room-based event routing, live dashboards, push notifications                                                                                                                                                                                                    |
+| ☸️  | **Containerized delivery** — Docker multi-stage builds, Kubernetes on AWS EKS, CI/CD with GitHub Actions                                                                                                                                                                                                |
+| 🔍  | **Automatic database introspection** — schema and relationship inference across MongoDB and SQL Server                                                                                                                                                                                                  |
+| 📊  | **Observability** — structured logging with PII redaction (pino), in-memory metrics with p50/p95 histograms, immutable audit trails                                                                                                                                                                     |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
@@ -236,6 +238,7 @@ Security is a core part of how I build, not an afterthought. I've designed and s
 **The engineering problem:** commercial fitment databases (ACES/VCdb) cost thousands per year. I built the equivalent coverage from **three free official sources** — the NHTSA vPIC VIN decoder (reconstructed Year/Make/Model from VIN pattern tables), the EPA fuel economy dataset (engine displacement, cylinders, fuel, drivetrain, transmission), and CarAPI — unified into one deduplicated collection with idempotent import pipelines. Achieved **~83% engine-level coverage** of the local vehicle fleet at **zero data cost**.
 
 **Highlights:**
+
 - **Config-level fitment** — compatibility is matched on a canonical engine signature (`liter|cylinders|fuel|aspiration|driveType|transmission`), so a CVT fluid never shows up for a manual gearbox of the same engine
 - **Rule-based compatibility** (make + model + year range + engine configs) instead of millions of rows — one rule covers hundreds of vehicles
 - **Compatibility suggestion assistant** — when an admin tags a product, the system proposes other vehicles likely to share the same engine, ranked by confidence, with the reasoning shown and nothing auto-applied
@@ -607,28 +610,117 @@ Design and deliver custom software for clients across El Salvador and Central Am
 
 ### 🏅 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaDev-IT&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8&amp;margin-h=8" alt="Trophies" />
-</div>
+<table>
+<tr>
+<td width="60" align="center" valign="top"><h3>🎓</h3></td>
+<td>
+
+**Graduated CUM LAUDE** — Software Engineering, ITCA-FEPADE
+<sub>Top academic distinction.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>🇸🇻</h3></td>
+<td>
+
+**State-endorsed diploma from the Government of El Salvador**
+<sub>280-hour Fullstack JavaScript program, awarded by the Innovation Secretariat of the Presidency.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>🏦</h3></td>
+<td>
+
+**Shipped software into production at a financial institution**
+<sub>Designed a hybrid end-to-end encryption layer (RSA-2048 + AES-256-GCM) and an auditable SHA-256 electronic signature for a system handling 21 legally binding document types across 4 product flows.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>💡</h3></td>
+<td>
+
+**Replaced a paid industry database with free public data**
+<sub>Commercial vehicle-fitment databases (ACES/VCdb) cost thousands per year. Reconstructed equivalent coverage — 44,658 configurations, ~83% of the local fleet — from three free official sources, at zero data cost.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>🚀</h3></td>
+<td>
+
+**Promoted to Project Manager at a US company, working remotely**
+<sub>Leading development and coordinating international teams for a California-based company from El Salvador.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>☁️</h3></td>
+<td>
+
+**Google Cloud certified in Generative AI** &nbsp;·&nbsp; [verify](https://coursera.org/verify/ZM73AETT9Q5D)
+<sub>Plus Scrum Essentials (TSE) — <a href="https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a">credential</a>.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>📚</h3></td>
+<td>
+
+**35 verified certifications · 485+ documented hours**
+<sub>Continuous learning from 2020 to 2026 — every entry backed by an issued credential.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><h3>❤️</h3></td>
+<td>
+
+**Donated a full AI assistant platform to my alma mater**
+<sub>Designed a voice-and-text institutional assistant with a 16-module admin portal for the university where I studied — delivered at no cost.</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
-### 📊 GitHub Stats
+### 📊 By the Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaDev-IT&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev-IT&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="170"/>
+
+|                                                     |                                                |                                          |
+| :-------------------------------------------------: | :--------------------------------------------: | :--------------------------------------: |
+|                       **30**                        |                     **7**                      |                  **5+**                  |
+|                   systems shipped                   |                industry sectors                |              years building              |
+|                                                     |                                                |                                          |
+|                       **21**                        |                   **44,658**                   |                  **9**                   |
+| digital documents in a<br/>banking signing platform | vehicle configurations<br/>in a fitment engine |   branches in a live<br/>queue system    |
+|                                                     |                                                |                                          |
+|                       **262**                       |                    **341+**                    |                  **35**                  |
+|    districts mapped in a<br/>geospatial platform    |       services in a workshop<br/>catalog       | verified certifications<br/>· 485+ hours |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaDev-IT&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
-</div>
+> **Sectors delivered:** banking · savings cooperatives · international NGOs · healthcare · automotive · heavy industry · education
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
-### 📈 Contribution Graph
+### 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDev-IT&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=RafaDev-IT&amp;theme=tokyonight&amp;hide_border=true" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDev-IT&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution activity" />
+
+</div>
+
+<sub>⚠️ Most of my production work lives in private and client-owned repositories, so public contribution graphs only tell part of the story. The <b>Live Systems</b> section above is the better reference.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
@@ -636,12 +728,12 @@ Design and deliver custom software for clients across El Salvador and Central Am
 
 <div align="center">
 
-| Issuer | Credentials | Period |
-| --- | --- | --- |
-| 🟢 **Platzi** | 31 courses · **485+ verified hours** | 2020 – 2026 |
-| ☁️ **Google Cloud** (via Coursera) | Generative AI | 2026 |
-| 🇸🇻 **Government of El Salvador** | Fullstack JavaScript · **280 h** | 2021 |
-| 🏅 **Scrum Network** | Scrum Essentials (TSE) | 2021 |
+| Issuer                             | Credentials                          | Period      |
+| ---------------------------------- | ------------------------------------ | ----------- |
+| 🟢 **Platzi**                      | 31 courses · **485+ verified hours** | 2020 – 2026 |
+| ☁️ **Google Cloud** (via Coursera) | Generative AI                        | 2026        |
+| 🇸🇻 **Government of El Salvador**   | Fullstack JavaScript · **280 h**     | 2021        |
+| 🏅 **Scrum Network**               | Scrum Essentials (TSE)               | 2021        |
 
 **35 verified certificates** · every entry below is backed by an issued credential
 
@@ -649,74 +741,74 @@ Design and deliver custom software for clients across El Salvador and Central Am
 
 #### 🏆 Flagship Credentials
 
-| Certification | Issuer | Date | Detail |
-| --- | --- | --- | --- |
-| 🎓 **Fullstack JavaScript Development** | **Innovation Secretariat, Government of El Salvador** + Platzi | Apr 2021 | Official state diploma · **280-hour** learning path |
-| ☁️ **Generative AI: Beyond the Chatbot** | **Google Cloud** (via Coursera) | Mar 2026 | [Verify](https://coursera.org/verify/ZM73AETT9Q5D) |
-| 🏅 **Trained in Scrum Essentials (TSE)** | Scrum Network | Jul 2021 | [View credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) · Cert. 35125072 |
+| Certification                            | Issuer                                                         | Date     | Detail                                                                                              |
+| ---------------------------------------- | -------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- |
+| 🎓 **Fullstack JavaScript Development**  | **Innovation Secretariat, Government of El Salvador** + Platzi | Apr 2021 | Official state diploma · **280-hour** learning path                                                 |
+| ☁️ **Generative AI: Beyond the Chatbot** | **Google Cloud** (via Coursera)                                | Mar 2026 | [Verify](https://coursera.org/verify/ZM73AETT9Q5D)                                                  |
+| 🏅 **Trained in Scrum Essentials (TSE)** | Scrum Network                                                  | Jul 2021 | [View credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) · Cert. 35125072 |
 
 #### 🤖 AI & Automation
 
-| Course | Issuer | Date | Hours |
-| --- | --- | --- | :---: |
-| Claude Academy | AVORA AI | Jun 2026 | — |
-| Claude Code | Platzi | Jan 2026 | 8 |
-| Generative AI: Beyond the Chatbot | Google Cloud | Mar 2026 | — |
-| n8n Workflow Automation | Platzi | Jul 2025 | 9 |
+| Course                            | Issuer       | Date     | Hours |
+| --------------------------------- | ------------ | -------- | :---: |
+| Claude Academy                    | AVORA AI     | Jun 2026 |   —   |
+| Claude Code                       | Platzi       | Jan 2026 |   8   |
+| Generative AI: Beyond the Chatbot | Google Cloud | Mar 2026 |   —   |
+| n8n Workflow Automation           | Platzi       | Jul 2025 |   9   |
 
 #### ⚛️ Frontend
 
-| Course | Date | Hours |
-| --- | --- | :---: |
-| Advanced ReactJS | Mar 2023 | 24 |
-| Frontend Developer | Dec 2020 | 24 |
-| Professional JavaScript | Dec 2020 | 26 |
-| Fundamentals of JavaScript | Oct 2020 | 23 |
-| Basic JavaScript | Oct 2020 | 19 |
-| React JS (hands-on) | Dec 2020 | 15 |
-| React Router & Redux | Dec 2020 | 13 |
-| ECMAScript: History & Versions of JavaScript | Dec 2020 | 12 |
-| Asynchronous JavaScript | Dec 2020 | 7 |
+| Course                                       | Date     | Hours |
+| -------------------------------------------- | -------- | :---: |
+| Advanced ReactJS                             | Mar 2023 |  24   |
+| Frontend Developer                           | Dec 2020 |  24   |
+| Professional JavaScript                      | Dec 2020 |  26   |
+| Fundamentals of JavaScript                   | Oct 2020 |  23   |
+| Basic JavaScript                             | Oct 2020 |  19   |
+| React JS (hands-on)                          | Dec 2020 |  15   |
+| React Router & Redux                         | Dec 2020 |  13   |
+| ECMAScript: History & Versions of JavaScript | Dec 2020 |  12   |
+| Asynchronous JavaScript                      | Dec 2020 |   7   |
 
 #### 🔧 Backend & Databases
 
-| Course | Date | Hours |
-| --- | --- | :---: |
-| Backend with Node.js | Dec 2020 | 24 |
-| Node.js: MongoDB Databases & WebSockets | Mar 2023 | 18 |
-| Introduction to C# | Mar 2022 | 18 |
-| Fundamentals of Node.js | Dec 2020 | 17 |
-| Server Side Rendering with Express | Dec 2020 | 17 |
-| Authentication with Passport.js | Dec 2020 | 17 |
-| Introduction to Backend Development | Mar 2022 | 9 |
+| Course                                  | Date     | Hours |
+| --------------------------------------- | -------- | :---: |
+| Backend with Node.js                    | Dec 2020 |  24   |
+| Node.js: MongoDB Databases & WebSockets | Mar 2023 |  18   |
+| Introduction to C#                      | Mar 2022 |  18   |
+| Fundamentals of Node.js                 | Dec 2020 |  17   |
+| Server Side Rendering with Express      | Dec 2020 |  17   |
+| Authentication with Passport.js         | Dec 2020 |  17   |
+| Introduction to Backend Development     | Mar 2022 |   9   |
 
 #### 🧪 Quality, Tooling & Fundamentals
 
-| Course | Date | Hours |
-| --- | --- | :---: |
-| Basic Programming | Mar 2022 | 34 |
-| Professional Git & GitHub | Dec 2020 | 22 |
-| Introduction to Test Automation | Oct 2023 | 15 |
-| Basic Computing & IT | Dec 2022 | 14 |
-| Logical Thinking: Algorithms & Flowcharts | Dec 2022 | 12 |
-| Prework: macOS Development Environment Setup | Dec 2020 | 7 |
+| Course                                       | Date     | Hours |
+| -------------------------------------------- | -------- | :---: |
+| Basic Programming                            | Mar 2022 |  34   |
+| Professional Git & GitHub                    | Dec 2020 |  22   |
+| Introduction to Test Automation              | Oct 2023 |  15   |
+| Basic Computing & IT                         | Dec 2022 |  14   |
+| Logical Thinking: Algorithms & Flowcharts    | Dec 2022 |  12   |
+| Prework: macOS Development Environment Setup | Dec 2020 |   7   |
 
 #### 📊 Agile & Project Management
 
-| Course | Date | Hours |
-| --- | --- | :---: |
-| Practical Project Management | Jun 2023 | 13 |
-| Professional Scrum | Mar 2023 | 12 |
-| User Stories in Scrum | Mar 2023 | 9 |
-| Project Management Fundamentals | Dec 2020 | 15 |
-| Effective Time Management | Dec 2020 | 10 |
-| Strategies for Effective Online Learning | Oct 2020 | 15 |
+| Course                                   | Date     | Hours |
+| ---------------------------------------- | -------- | :---: |
+| Practical Project Management             | Jun 2023 |  13   |
+| Professional Scrum                       | Mar 2023 |  12   |
+| User Stories in Scrum                    | Mar 2023 |   9   |
+| Project Management Fundamentals          | Dec 2020 |  15   |
+| Effective Time Management                | Dec 2020 |  10   |
+| Strategies for Effective Online Learning | Oct 2020 |  15   |
 
 #### 🌟 Specialized
 
-| Course | Date | Hours |
-| --- | --- | :---: |
-| Bitcoin for El Salvador | Nov 2022 | 7 |
+| Course                  | Date     | Hours |
+| ----------------------- | -------- | :---: |
+| Bitcoin for El Salvador | Nov 2022 |   7   |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
