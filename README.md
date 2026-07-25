@@ -22,6 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=RafaDev-IT&amp;color=1E3A8A&amp;style=flat-square&amp;label=Profile+Views" />
 </p>
 
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 👨‍💻 About Me
