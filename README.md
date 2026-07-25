@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=190&section=header&text=Rafael%20Martinez&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Security-Focused&descSize=17&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E3A8A,100:3B82F6&amp;height=190&amp;section=header&amp;text=Rafael%20Martinez&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=34&amp;desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Security-Focused&amp;descSize=17&amp;descAlignY=54&amp;animation=fadeIn" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=Production+systems+for+banking+%26+enterprise;End-to-end+encryption+%26+digital+signatures;AI+voice+agents+%26+self-hosted+LLMs;Multi-tenant+SaaS+%C2%B7+30+systems+shipped" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=26&amp;duration=2800&amp;pause=2000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Production+systems+for+banking+%26+enterprise;End-to-end+encryption+%26+digital+signatures;AI+voice+agents+%26+self-hosted+LLMs;Multi-tenant+SaaS+%C2%B7+30+systems+shipped" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_San_Salvador,_El_Salvador-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
-  <img src="https://img.shields.io/badge/💼_5+_Years-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
-  <img src="https://img.shields.io/badge/🚀_30_Systems_Shipped-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
-  <img src="https://img.shields.io/badge/🔐_Security_Focused-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
-  <img src="https://komarev.com/ghpvc/?username=RafaDev-IT&color=1E3A8A&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/📍_San_Salvador,_El_Salvador-0F172A?style=flat-square&amp;labelColor=0F172A&amp;color=1E3A8A" />
+  <img src="https://img.shields.io/badge/💼_5+_Years-0F172A?style=flat-square&amp;labelColor=0F172A&amp;color=1E3A8A" />
+  <img src="https://img.shields.io/badge/🚀_30_Systems_Shipped-0F172A?style=flat-square&amp;labelColor=0F172A&amp;color=1E3A8A" />
+  <img src="https://img.shields.io/badge/🔐_Security_Focused-0F172A?style=flat-square&amp;labelColor=0F172A&amp;color=1E3A8A" />
+  <img src="https://komarev.com/ghpvc/?username=RafaDev-IT&amp;color=1E3A8A&amp;style=flat-square&amp;label=Profile+Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 👨‍💻 About Me
 
@@ -37,7 +37,7 @@ I work across the whole lifecycle: requirements, architecture, implementation, s
 - 🌍 **Languages:** Spanish (native), English (professional proficiency)
 - 📫 **Reach me:** rafaelvady.q@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -82,7 +82,7 @@ I work across the whole lifecycle: requirements, architecture, implementation, s
 
 Agile · Scrum · Jira · technical proposals · requirements analysis · sprint planning · international team coordination
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🏆 Engineering Highlights
 
@@ -103,7 +103,7 @@ Things I've built that go beyond standard CRUD work:
 | 🔍 | **Automatic database introspection** — schema and relationship inference across MongoDB and SQL Server |
 | 📊 | **Observability** — structured logging with PII redaction (pino), in-memory metrics with p50/p95 histograms, immutable audit trails |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🔐 Security Engineering
 
@@ -145,7 +145,7 @@ Security is a core part of how I build, not an afterthought. I've designed and s
 
 - Performed **internal security audits** of inherited codebases, identifying and documenting SQL injection, hardcoded credentials, wildcard CORS and missing test coverage — with remediation scope and effort estimates before any redeployment.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🌐 Live Systems
 
@@ -201,7 +201,7 @@ Security is a core part of how I build, not an afterthought. I've designed and s
 
 > 💡 **Start here:** the **banking signing platform**, the **multi-branch queue system** and the **smart automotive catalog** are the three that best show what I can build.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### ⭐ Selected Work
 
@@ -264,7 +264,7 @@ Security is a core part of how I build, not an afterthought. I've designed and s
 
 **Tech Stack:** React, Node.js, Express, MongoDB, ElevenLabs API, Stripe, JWT, Nodemailer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 📂 More Work by Domain
 
@@ -583,7 +583,7 @@ Built full-stack solutions with React.js and Node.js, implementing automation sy
 
 Design and deliver custom software for clients across El Salvador and Central America — multi-tenant SaaS platforms, AI conversational agents, e-commerce and enterprise systems for banking, cooperative, NGO and industrial sectors. End-to-end ownership: requirements, architecture, implementation, security and delivery.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🌟 What I Build
 
@@ -603,34 +603,34 @@ Design and deliver custom software for clients across El Salvador and Central Am
 - ☁️ **Cloud & DevOps** — Docker, Kubernetes, AWS, CI/CD pipelines
 - 📱 **Progressive Web Apps** — installable, offline-capable applications
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaDev-IT&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaDev-IT&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8&amp;margin-h=8" alt="Trophies" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaDev-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev-IT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaDev-IT&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev-IT&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaDev-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaDev-IT&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDev-IT&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDev-IT&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🎓 Certifications & Learning
 
@@ -718,14 +718,14 @@ Design and deliver custom software for clients across El Salvador and Central Am
 | --- | --- | :---: |
 | Bitcoin for El Salvador | Nov 2022 | 7 |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 🌍 Languages
 
 - 🇪🇸 **Spanish:** Native
 - 🇺🇸 **English:** Professional Working Proficiency
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 💡 Core Competencies
 
@@ -779,7 +779,7 @@ Soft Skills:
   - Bilingual (Spanish/English)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1E3A8A,100:3B82F6&amp;height=3" width="100%"/>
 
 ### 📫 Let's Connect
 
@@ -808,7 +808,7 @@ Soft Skills:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaDev-IT&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RafaDev-IT&amp;color=3B82F6&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -820,4 +820,4 @@ Soft Skills:
   <b>⚡ Available for SaaS platforms, AI integrations, security-critical systems and technical consulting ⚡</b>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3B82F6,50:1E3A8A,100:0F172A&amp;height=120&amp;section=footer" width="100%" />
