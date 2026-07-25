@@ -1,24 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=190&section=header&text=Rafael%20Martinez&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Automation%20%C2%B7%20Security-Focused&descSize=17&descAlignY=54&animation=fadeIn" width="100%" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rafael+Martinez;Full+Stack+Software+Engineer;AI+%26+Automation+Specialist;Security-Focused+Engineer;Technical+Project+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=800&lines=Production+systems+for+banking+%26+enterprise;End-to-end+encryption+%26+digital+signatures;AI+voice+agents+%26+self-hosted+LLMs;Multi-tenant+SaaS+%C2%B7+30+systems+shipped" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full Stack Engineer | AI & Automation | Security-Focused | Technical Project Manager</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-martinez-SV"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rafael-martinez-SV"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:rafaelvady.q@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
+  <a href="mailto:rafaelvady.q@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>
   &nbsp;
-  <a href="https://github.com/RafaDev-IT"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
+  <a href="https://github.com/RafaDev-IT"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <sub>
-    📍 San Salvador, El Salvador &nbsp;·&nbsp; 💼 5+ years &nbsp;·&nbsp; 🚀 30 systems shipped &nbsp;·&nbsp; 🔐 Security-focused
-  </sub>
+  <img src="https://img.shields.io/badge/📍_San_Salvador,_El_Salvador-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
+  <img src="https://img.shields.io/badge/💼_5+_Years-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
+  <img src="https://img.shields.io/badge/🚀_30_Systems_Shipped-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
+  <img src="https://img.shields.io/badge/🔐_Security_Focused-0F172A?style=flat-square&labelColor=0F172A&color=1E3A8A" />
+  <img src="https://komarev.com/ghpvc/?username=RafaDev-IT&color=1E3A8A&style=flat-square&label=Profile+Views" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 👨‍💻 About Me
 
@@ -35,7 +37,7 @@ I work across the whole lifecycle: requirements, architecture, implementation, s
 - 🌍 **Languages:** Spanish (native), English (professional proficiency)
 - 📫 **Reach me:** rafaelvady.q@gmail.com
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -79,7 +81,8 @@ I work across the whole lifecycle: requirements, architecture, implementation, s
 #### 📊 Ways of Working
 
 Agile · Scrum · Jira · technical proposals · requirements analysis · sprint planning · international team coordination
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🏆 Engineering Highlights
 
@@ -100,7 +103,7 @@ Things I've built that go beyond standard CRUD work:
 | 🔍 | **Automatic database introspection** — schema and relationship inference across MongoDB and SQL Server |
 | 📊 | **Observability** — structured logging with PII redaction (pino), in-memory metrics with p50/p95 histograms, immutable audit trails |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🔐 Security Engineering
 
@@ -142,31 +145,67 @@ Security is a core part of how I build, not an afterthought. I've designed and s
 
 - Performed **internal security audits** of inherited codebases, identifying and documenting SQL injection, hardcoded credentials, wildcard CORS and missing test coverage — with remediation scope and effort estimates before any redeployment.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🌐 Live Systems
 
-Systems currently deployed and reachable — click through and try them:
+<div align="center">
+<i>Deployed and reachable right now — click through and try them.</i>
+</div>
 
-| System | Live | What it is |
-| --- | --- | --- |
-| 🛒 **Smart Automotive E-commerce** | [lubrifiltros-menjivar.web.app](https://lubrifiltros-menjivar.web.app/) | Parts catalog with vehicle fitment search (44k+ configs) |
-| 🔧 **Repair Shop Management SaaS** | [sistema-talleres.web.app](https://sistema-talleres.web.app/) | Multi-tenant workshop platform |
-| 🗣️ **AI Voice Agent Generator** | [generador-ai.web.app](https://generador-ai.web.app/) | Self-service voice agent provisioning |
-| 📱 **PostPilot AI** | [ai-postpilot.web.app](https://ai-postpilot.web.app/) | Social media scheduling with RAG |
-| 🏥 **Clinic Management & EHR** | [sistemaclinico.com](https://sistemaclinico.com/) | Electronic health records + appointments |
-| 🩺 **Family Health Tracker** | [nancycontigo.com](https://nancycontigo.com/) | Health monitoring with AI assistant |
-| 🚗 **Ride Booking Platform** | [agendaviaje.com](https://agendaviaje.com/) | Bookings for independent drivers |
-| 🏘️ **Residential Access Control** | [residencial-vp.web.app](https://residencial-vp.web.app/) | QR visitor access + security |
-| 📊 **Lead Management CRM** | [lead-marketing-center.web.app](https://lead-marketing-center.web.app/) | 9-stage sales pipeline |
-| ✂️ **Multi-Branch Booking** | [citas-malacate.web.app](https://citas-malacate.web.app/) | Appointments for barbershops & salons |
-| 🌐 **Corporate Platform + Voice AI** | [Live site](https://consoltechsv.com/) | Bilingual platform with embedded voice agent |
+<br/>
 
-> **Start here:** the banking signing platform, the multi-branch queue system and the smart automotive catalog are the three that best show what I can build. Everything below is ordered by depth, not by date.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🛒 [Smart Automotive E-commerce](https://lubrifiltros-menjivar.web.app/)**
+<br/><sub>Parts catalog with vehicle fitment search · 44k+ configs</sub>
 
-### 🚀 Featured Work
+**🔧 [Repair Shop Management SaaS](https://sistema-talleres.web.app/)**
+<br/><sub>Multi-tenant workshop platform</sub>
+
+**🗣️ [AI Voice Agent Generator](https://generador-ai.web.app/)**
+<br/><sub>Self-service voice agent provisioning</sub>
+
+**📱 [PostPilot AI](https://ai-postpilot.web.app/)**
+<br/><sub>Social media scheduling with RAG</sub>
+
+**🏥 [Clinic Management & EHR](https://sistemaclinico.com/)**
+<br/><sub>Electronic health records + appointments</sub>
+
+**🩺 [Family Health Tracker](https://nancycontigo.com/)**
+<br/><sub>Health monitoring with AI assistant</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🚗 [Ride Booking Platform](https://agendaviaje.com/)**
+<br/><sub>Bookings for independent drivers</sub>
+
+**🏘️ [Residential Access Control](https://residencial-vp.web.app/)**
+<br/><sub>QR visitor access + real-time security</sub>
+
+**📊 [Lead Management CRM](https://lead-marketing-center.web.app/)**
+<br/><sub>9-stage sales pipeline</sub>
+
+**✂️ [Multi-Branch Booking](https://citas-malacate.web.app/)**
+<br/><sub>Appointments for barbershops & salons</sub>
+
+**🌐 [Corporate Platform + Voice AI](https://consoltechsv.com/)**
+<br/><sub>Bilingual site with embedded voice agent</sub>
+
+</td>
+</tr>
+</table>
+
+> 💡 **Start here:** the **banking signing platform**, the **multi-branch queue system** and the **smart automotive catalog** are the three that best show what I can build.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+
+### ⭐ Selected Work
+
+> The five that best show what I build. **30 systems total** — the rest are grouped by domain below.
 
 #### 🏦 Digital Client Onboarding & Document Signing Platform — Banking
 
@@ -187,6 +226,52 @@ Systems currently deployed and reachable — click through and try them:
 **Tech Stack:** React, Vite, Zustand, Node.js, Express, Sequelize, SQL Server, Socket.IO, pino
 
 ---
+
+#### 🛒 Smart Automotive E-commerce with Vehicle Fitment Search (YMME)
+
+🔗 **[Live](https://lubrifiltros-menjivar.web.app/)**
+
+> Full e-commerce platform for an automotive parts distributor, built around a **vehicle-first catalog**: the customer identifies their car (Make → Model → Year → Engine version) and sees **only the parts that actually fit it**. Backed by a vehicle database of **44,658 technical configurations** covering **18,507 searchable vehicles** across **154 makes, 1981–2026**.
+
+**The engineering problem:** commercial fitment databases (ACES/VCdb) cost thousands per year. I built the equivalent coverage from **three free official sources** — the NHTSA vPIC VIN decoder (reconstructed Year/Make/Model from VIN pattern tables), the EPA fuel economy dataset (engine displacement, cylinders, fuel, drivetrain, transmission), and CarAPI — unified into one deduplicated collection with idempotent import pipelines. Achieved **~83% engine-level coverage** of the local vehicle fleet at **zero data cost**.
+
+**Highlights:**
+- **Config-level fitment** — compatibility is matched on a canonical engine signature (`liter|cylinders|fuel|aspiration|driveType|transmission`), so a CVT fluid never shows up for a manual gearbox of the same engine
+- **Rule-based compatibility** (make + model + year range + engine configs) instead of millions of rows — one rule covers hundreds of vehicles
+- **Compatibility suggestion assistant** — when an admin tags a product, the system proposes other vehicles likely to share the same engine, ranked by confidence, with the reasoning shown and nothing auto-applied
+- **Year-aware version picker** — only offers engine variants that actually existed in the selected year range
+- Accent-insensitive substring search with AND-per-word matching · PWA with offline fallback and service-worker update flow · full SEO with JSON-LD structured data (`AutoPartsStore`, `Organization`, `WebSite`) · payment gateway with OAuth2 + redirect verification · guest cart merging on login · dynamic checkout (3 steps pickup / 4 delivery) · coupons, reviews, wishlist · soft-delete with restore and reassignment · admin invariants (cannot delete, block or demote the last administrator) · database-governed rate limiting (toggle without redeploy)
+
+**Tech Stack:** React 18, Vite 6, Zustand, Node.js, Express, MongoDB, **SQL Server** (vPIC source), Zod, Socket.IO, Wompi (OAuth2), Nodemailer, PWA, PDFKit
+
+---
+
+#### 🧩 Skema — No-Code REST API Builder for MongoDB & SQL Server
+
+> Platform for building live REST APIs over existing databases without writing code. Connect a database, define endpoints visually (verb + route + collection + filters + relations + validation), and they run instantly.
+
+**Highlights:** two-plane architecture (control plane / data plane) · **multi-engine: MongoDB and SQL Server** · automatic schema introspection and relationship detection · recursive joins (`$lookup` in Mongo, correlated `FOR JSON PATH` in SQL) producing identical nested output · connection strings encrypted at rest with AES-256-GCM
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, Mongoose, MongoDB driver, `mssql`, JWT
+
+---
+
+#### 🤖 AI Voice Agent Provisioning & Subscription Platform
+
+> Subscription platform where a business signs up and gets a fully configured AI voice agent. The system scans their website, builds a knowledge base from URLs and uploaded documents (PDF/TXT/DOCX), and provisions the agent automatically.
+
+**Highlights:** automated ElevenLabs agent creation · website crawler · knowledge base deduplication · real-time agent status tracking · subscription lifecycle & payment integration · PWA
+
+**Tech Stack:** React, Node.js, Express, MongoDB, ElevenLabs API, Stripe, JWT, Nodemailer
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+
+### 📂 More Work by Domain
+
+<details>
+<summary><b>🏛️ Enterprise, Public Sector & Industry</b> &nbsp;·&nbsp; <sub>Systems for banks, cooperatives, NGOs, industry and education (7)</sub></summary>
+
+<br/>
 
 #### 🗺️ Geospatial Impact Monitoring & Territorial Management Platform — International NGO
 
@@ -214,27 +299,52 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### 🔧 Automotive Repair Shop Management Suite — Multi-Tenant SaaS
+#### 🏛️ Corporate ERP — Secure Logistics & Valuables Transport
 
-🔗 **[Live](https://sistema-talleres.web.app/)**
+> Custom ERP for a company operating armored transport, ATM servicing, courier and a payment collection network — replacing spreadsheet-driven accounting and operations. Designed around a single strategic indicator the client cares about: **contribution margin per business line**.
 
-> Automotive workshop platform supporting multiple isolated shops on a single instance, with **self-service onboarding and payment** that automatically provisions the shop and its admin account. 17 data models, 30 screens, 341+ service catalog.
+**Highlights:** integrated accounting, finance, operations and inventory · per-business-line profitability analytics · role-based access with full traceability · designed against IFRS accounting standards and ISO 27001 security practices · reporting and dashboards for executive decision-making
 
-**Highlights:** work orders, quotes, inventory, vehicle inspections (Kanban), preventive maintenance reminders, public customer portal with appointment booking, real-time notifications
-
-**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, MongoDB, Socket.IO, payment gateway (webhook + HMAC-SHA256), PWA
+**Tech Stack:** React, Vite, Zustand, Node.js, Express, SQL Server, JWT, RBAC
 
 ---
 
-#### 🤖 AI Voice Agent Provisioning & Subscription Platform
+#### 🔐 HR & Occupational Safety System — Steel Industry
 
-> Subscription platform where a business signs up and gets a fully configured AI voice agent. The system scans their website, builds a knowledge base from URLs and uploaded documents (PDF/TXT/DOCX), and provisions the agent automatically.
+> Internal enterprise system covering employees, departments, positions, vacation management under Salvadoran labor law, hazard zones, vaccinations and training sessions with printable signed attendance.
 
-**Highlights:** automated ElevenLabs agent creation · website crawler · knowledge base deduplication · real-time agent status tracking · subscription lifecycle & payment integration · PWA
+**Highlights:** custom end-to-end encryption (RSA-2048 + AES-256-GCM) · on-premise deployment with no third-party cloud
 
-**Tech Stack:** React, Node.js, Express, MongoDB, ElevenLabs API, Stripe, JWT, Nodemailer
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, SQL Server, JWT, bcrypt, PWA
 
 ---
+
+#### 🎒 Academic Management System — Enrollment, Certification & Analytics
+
+> Turnkey academic management platform sized for **5,000 concurrent users** with a 99.5% availability target: online enrollment, QR-based event check-in, evaluations, surveys, digital certificates with public verification, real-time dashboards and integration APIs.
+
+**Highlights:** QR check-in that keeps working with unstable connectivity (offline-capable PWA) · publicly verifiable digital certificates · real-time analytics dashboards · REST APIs for LMS and CRM integration · compliance-oriented design (national data protection standard + ISO/IEC 27001) · installable on mobile without app stores
+
+**Tech Stack:** React, Vite, Node.js, Express, PostgreSQL, JWT, QR, PWA, REST integration APIs
+
+---
+
+#### ⚓ Maritime RFQ-to-Quote Automation Platform
+
+> Quoting platform for a marine spare-parts distributor. Requests for quotation arrive from vessels through a marketplace API; the system interprets the free-text fields with AI, matches parts against the catalogue, prices them deterministically, and publishes the quote back — with a human approval gate before anything goes out.
+
+**Highlights:** **AI handles language, never arithmetic** — currency conversion, hedging, margin and freight are computed by a deterministic pricing engine, not a model · schema-constrained matching where the model must pick a catalogue ID or return `null`, making invented part numbers structurally impossible · hybrid search (exact, fuzzy and semantic) · human-in-the-loop approval screen · every quote audited against the exchange rate and rules in force that day · CRM deal creation with PDF attachment
+
+**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI (structured outputs), Zod, vector search, marketplace & CRM API integrations
+
+---
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Conversational Platforms</b> &nbsp;·&nbsp; <sub>Voice agents, chat assistants and RAG-powered content (4)</sub></summary>
+
+<br/>
 
 #### 🗣️ AI Voice Agent Platform with Client Self-Service Portal — Spanish Market
 
@@ -268,16 +378,6 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### 🧩 Skema — No-Code REST API Builder for MongoDB & SQL Server
-
-> Platform for building live REST APIs over existing databases without writing code. Connect a database, define endpoints visually (verb + route + collection + filters + relations + validation), and they run instantly.
-
-**Highlights:** two-plane architecture (control plane / data plane) · **multi-engine: MongoDB and SQL Server** · automatic schema introspection and relationship detection · recursive joins (`$lookup` in Mongo, correlated `FOR JSON PATH` in SQL) producing identical nested output · connection strings encrypted at rest with AES-256-GCM
-
-**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, Mongoose, MongoDB driver, `mssql`, JWT
-
----
-
 #### 📱 PostPilot AI — Social Media Scheduling & AI Content Generation (RAG)
 
 🔗 **[Live](https://ai-postpilot.web.app/)**
@@ -288,13 +388,32 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### ⚓ Maritime RFQ-to-Quote Automation Platform
+</details>
 
-> Quoting platform for a marine spare-parts distributor. Requests for quotation arrive from vessels through a marketplace API; the system interprets the free-text fields with AI, matches parts against the catalogue, prices them deterministically, and publishes the quote back — with a human approval gate before anything goes out.
+<details>
+<summary><b>🛠️ Business Operations & SaaS</b> &nbsp;·&nbsp; <sub>Multi-tenant platforms, CRM, monitoring and internal tooling (7)</sub></summary>
 
-**Highlights:** **AI handles language, never arithmetic** — currency conversion, hedging, margin and freight are computed by a deterministic pricing engine, not a model · schema-constrained matching where the model must pick a catalogue ID or return `null`, making invented part numbers structurally impossible · hybrid search (exact, fuzzy and semantic) · human-in-the-loop approval screen · every quote audited against the exchange rate and rules in force that day · CRM deal creation with PDF attachment
+<br/>
 
-**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI (structured outputs), Zod, vector search, marketplace & CRM API integrations
+#### 🔧 Automotive Repair Shop Management Suite — Multi-Tenant SaaS
+
+🔗 **[Live](https://sistema-talleres.web.app/)**
+
+> Automotive workshop platform supporting multiple isolated shops on a single instance, with **self-service onboarding and payment** that automatically provisions the shop and its admin account. 17 data models, 30 screens, 341+ service catalog.
+
+**Highlights:** work orders, quotes, inventory, vehicle inspections (Kanban), preventive maintenance reminders, public customer portal with appointment booking, real-time notifications
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, MongoDB, Socket.IO, payment gateway (webhook + HMAC-SHA256), PWA
+
+---
+
+#### 📊 Sales Pipeline & Lead Management CRM
+
+🔗 **[Live](https://lead-marketing-center.web.app/)**
+
+> Sales CRM with a 9-stage pipeline, role-based access control with per-lead ownership rules, dated follow-up log, and bulk import from Excel and Meta Ads with idempotency hashing.
+
+**Tech Stack:** React 18, Vite, Zustand, drag & drop Kanban, Node.js, Express, MongoDB, Zod, Twilio, Nodemailer
 
 ---
 
@@ -316,6 +435,41 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
+#### 🎟️ Helpdesk & Support Ticket Management System
+
+> Support ticket platform with role-based workflows for administrators, agents and end users: ticket lifecycle management, priorities and categories, agent assignment, threaded comments with change history and real-time reporting dashboards.
+
+**Highlights:** configurable ticket states and priorities · agent assignment and escalation · attachment support · audit history per ticket · exportable performance reports
+
+**Tech Stack:** React, Vite, Zustand, React Query, Tailwind, Node.js, Express, MongoDB, JWT
+
+---
+
+#### 🍴 Restaurant POS & Digital Ordering System
+
+> Digital menu with QR ordering, table and sub-account management, waiter module with employee traceability, and role-based panels for kitchen, cashier and admin.
+
+**Tech Stack:** React SPA, PHP REST API (PDO), MySQL, Firebase Storage, payment gateway
+
+---
+
+#### 🚙 Vehicle Rental & Fleet Contract Management System
+
+> Fleet management platform for vehicle rental operations: availability calendar, reservation handling, automated contract generation as PDF, photo-based damage inspection at pickup and return, insurance tracking and scheduled maintenance alerts.
+
+**Highlights:** automated contract generation with digital delivery · condition checklists with photographic evidence · fleet availability engine · maintenance and insurance expiry reminders · role-based admin panel
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, MongoDB, AWS S3, PDF generation, PWA
+
+---
+
+</details>
+
+<details>
+<summary><b>🏥 Healthcare</b> &nbsp;·&nbsp; <sub>Clinical records, scheduling and health monitoring (3)</sub></summary>
+
+<br/>
+
 #### 🏥 Clinic Management & Electronic Health Records System
 
 🔗 **[Live](https://sistemaclinico.com/)**
@@ -336,16 +490,6 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### 🏘️ Residential Visitor Access Control & Security System
-
-🔗 **[Live](https://residencial-vp.web.app/)**
-
-> Visitor access control for gated communities: unique QR codes per visit, camera-based scanning with automatic entry/exit detection, real-time notifications and exportable reports.
-
-**Tech Stack:** React 19, Zustand, Framer Motion, Node.js, Express 5, MongoDB Atlas, Socket.IO, Twilio SMS, QR
-
----
-
 #### 🩺 Family Health Monitoring & Clinical Risk Assessment Platform
 
 🔗 **[Live](https://nancycontigo.com/)**
@@ -356,34 +500,12 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### 📊 Sales Pipeline & Lead Management CRM
+</details>
 
-🔗 **[Live](https://lead-marketing-center.web.app/)**
+<details>
+<summary><b>📅 Booking, Access & Web</b> &nbsp;·&nbsp; <sub>Reservations, access control and public-facing platforms (4)</sub></summary>
 
-> Sales CRM with a 9-stage pipeline, role-based access control with per-lead ownership rules, dated follow-up log, and bulk import from Excel and Meta Ads with idempotency hashing.
-
-**Tech Stack:** React 18, Vite, Zustand, drag & drop Kanban, Node.js, Express, MongoDB, Zod, Twilio, Nodemailer
-
----
-
-#### 🛒 Smart Automotive E-commerce with Vehicle Fitment Search (YMME)
-
-🔗 **[Live](https://lubrifiltros-menjivar.web.app/)**
-
-> Full e-commerce platform for an automotive parts distributor, built around a **vehicle-first catalog**: the customer identifies their car (Make → Model → Year → Engine version) and sees **only the parts that actually fit it**. Backed by a vehicle database of **44,658 technical configurations** covering **18,507 searchable vehicles** across **154 makes, 1981–2026**.
-
-**The engineering problem:** commercial fitment databases (ACES/VCdb) cost thousands per year. I built the equivalent coverage from **three free official sources** — the NHTSA vPIC VIN decoder (reconstructed Year/Make/Model from VIN pattern tables), the EPA fuel economy dataset (engine displacement, cylinders, fuel, drivetrain, transmission), and CarAPI — unified into one deduplicated collection with idempotent import pipelines. Achieved **~83% engine-level coverage** of the local vehicle fleet at **zero data cost**.
-
-**Highlights:**
-- **Config-level fitment** — compatibility is matched on a canonical engine signature (`liter|cylinders|fuel|aspiration|driveType|transmission`), so a CVT fluid never shows up for a manual gearbox of the same engine
-- **Rule-based compatibility** (make + model + year range + engine configs) instead of millions of rows — one rule covers hundreds of vehicles
-- **Compatibility suggestion assistant** — when an admin tags a product, the system proposes other vehicles likely to share the same engine, ranked by confidence, with the reasoning shown and nothing auto-applied
-- **Year-aware version picker** — only offers engine variants that actually existed in the selected year range
-- Accent-insensitive substring search with AND-per-word matching · PWA with offline fallback and service-worker update flow · full SEO with JSON-LD structured data (`AutoPartsStore`, `Organization`, `WebSite`) · payment gateway with OAuth2 + redirect verification · guest cart merging on login · dynamic checkout (3 steps pickup / 4 delivery) · coupons, reviews, wishlist · soft-delete with restore and reassignment · admin invariants (cannot delete, block or demote the last administrator) · database-governed rate limiting (toggle without redeploy)
-
-**Tech Stack:** React 18, Vite 6, Zustand, Node.js, Express, MongoDB, **SQL Server** (vPIC source), Zod, Socket.IO, Wompi (OAuth2), Nodemailer, PWA, PDFKit
-
----
+<br/>
 
 #### 🚗 Ride Booking & Driver Operations Platform
 
@@ -395,43 +517,13 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### 🚙 Vehicle Rental & Fleet Contract Management System
+#### 🏘️ Residential Visitor Access Control & Security System
 
-> Fleet management platform for vehicle rental operations: availability calendar, reservation handling, automated contract generation as PDF, photo-based damage inspection at pickup and return, insurance tracking and scheduled maintenance alerts.
+🔗 **[Live](https://residencial-vp.web.app/)**
 
-**Highlights:** automated contract generation with digital delivery · condition checklists with photographic evidence · fleet availability engine · maintenance and insurance expiry reminders · role-based admin panel
+> Visitor access control for gated communities: unique QR codes per visit, camera-based scanning with automatic entry/exit detection, real-time notifications and exportable reports.
 
-**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, MongoDB, AWS S3, PDF generation, PWA
-
----
-
-#### 🏛️ Corporate ERP — Secure Logistics & Valuables Transport
-
-> Custom ERP for a company operating armored transport, ATM servicing, courier and a payment collection network — replacing spreadsheet-driven accounting and operations. Designed around a single strategic indicator the client cares about: **contribution margin per business line**.
-
-**Highlights:** integrated accounting, finance, operations and inventory · per-business-line profitability analytics · role-based access with full traceability · designed against IFRS accounting standards and ISO 27001 security practices · reporting and dashboards for executive decision-making
-
-**Tech Stack:** React, Vite, Zustand, Node.js, Express, SQL Server, JWT, RBAC
-
----
-
-#### 🎒 Academic Management System — Enrollment, Certification & Analytics
-
-> Turnkey academic management platform sized for **5,000 concurrent users** with a 99.5% availability target: online enrollment, QR-based event check-in, evaluations, surveys, digital certificates with public verification, real-time dashboards and integration APIs.
-
-**Highlights:** QR check-in that keeps working with unstable connectivity (offline-capable PWA) · publicly verifiable digital certificates · real-time analytics dashboards · REST APIs for LMS and CRM integration · compliance-oriented design (national data protection standard + ISO/IEC 27001) · installable on mobile without app stores
-
-**Tech Stack:** React, Vite, Node.js, Express, PostgreSQL, JWT, QR, PWA, REST integration APIs
-
----
-
-#### 🔐 HR & Occupational Safety System — Steel Industry
-
-> Internal enterprise system covering employees, departments, positions, vacation management under Salvadoran labor law, hazard zones, vaccinations and training sessions with printable signed attendance.
-
-**Highlights:** custom end-to-end encryption (RSA-2048 + AES-256-GCM) · on-premise deployment with no third-party cloud
-
-**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, SQL Server, JWT, bcrypt, PWA
+**Tech Stack:** React 19, Zustand, Framer Motion, Node.js, Express 5, MongoDB Atlas, Socket.IO, Twilio SMS, QR
 
 ---
 
@@ -442,16 +534,6 @@ Systems currently deployed and reachable — click through and try them:
 > Multi-branch appointment platform: public booking wizard (branch → professional → time slot), token-based confirmation via WhatsApp, staff directory with inter-branch transfers and KPI dashboard.
 
 **Tech Stack:** React 18, Vite, React Router 6, Zustand, PWA
-
----
-
-#### 🎟️ Helpdesk & Support Ticket Management System
-
-> Support ticket platform with role-based workflows for administrators, agents and end users: ticket lifecycle management, priorities and categories, agent assignment, threaded comments with change history and real-time reporting dashboards.
-
-**Highlights:** configurable ticket states and priorities · agent assignment and escalation · attachment support · audit history per ticket · exportable performance reports
-
-**Tech Stack:** React, Vite, Zustand, React Query, Tailwind, Node.js, Express, MongoDB, JWT
 
 ---
 
@@ -467,13 +549,7 @@ Systems currently deployed and reachable — click through and try them:
 
 ---
 
-#### 🍴 Restaurant POS & Digital Ordering System
-
-> Digital menu with QR ordering, table and sub-account management, waiter module with employee traceability, and role-based panels for kitchen, cashier and admin.
-
-**Tech Stack:** React SPA, PHP REST API (PDO), MySQL, Firebase Storage, payment gateway
-
----
+</details>
 
 ### 💼 Professional Experience
 
@@ -507,7 +583,7 @@ Built full-stack solutions with React.js and Node.js, implementing automation sy
 
 Design and deliver custom software for clients across El Salvador and Central America — multi-tenant SaaS platforms, AI conversational agents, e-commerce and enterprise systems for banking, cooperative, NGO and industrial sectors. End-to-end ownership: requirements, architecture, implementation, security and delivery.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🌟 What I Build
 
@@ -527,7 +603,15 @@ Design and deliver custom software for clients across El Salvador and Central Am
 - ☁️ **Cloud & DevOps** — Docker, Kubernetes, AWS, CI/CD pipelines
 - 📱 **Progressive Web Apps** — installable, offline-capable applications
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
+
+### 🏅 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaDev-IT&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -540,13 +624,13 @@ Design and deliver custom software for clients across El Salvador and Central Am
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaDev-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDev-IT&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🎓 Certifications & Learning
 
@@ -634,14 +718,14 @@ Design and deliver custom software for clients across El Salvador and Central Am
 | --- | --- | :---: |
 | Bitcoin for El Salvador | Nov 2022 | 7 |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 🌍 Languages
 
 - 🇪🇸 **Spanish:** Native
 - 🇺🇸 **English:** Professional Working Proficiency
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 💡 Core Competencies
 
@@ -695,7 +779,7 @@ Soft Skills:
   - Bilingual (Spanish/English)
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=3" width="100%"/>
 
 ### 📫 Let's Connect
 
@@ -735,3 +819,5 @@ Soft Skills:
   <br/><br/>
   <b>⚡ Available for SaaS platforms, AI integrations, security-critical systems and technical consulting ⚡</b>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
