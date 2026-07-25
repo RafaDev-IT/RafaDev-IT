@@ -1,33 +1,37 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rafael+Martinez;Full+Stack+Software+Engineer;AI+%26+Automation+Specialist;Technical+Project+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rafael+Martinez;Full+Stack+Software+Engineer;AI+%26+Automation+Specialist;Security-Focused+Engineer;Technical+Project+Manager" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full Stack Engineer | AI & Automation | Project Manager | SaaS Developer</h3>
+<h3 align="center">🚀 Full Stack Engineer | AI & Automation | Security-Focused | Technical Project Manager</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-martinez-SV"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rafaelvady.q@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://platzi.com/p/vlady-martinez/"><img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafael-martinez-SV"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:rafaelvady.q@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/RafaDev-IT"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-San%20Salvador%2C%20El%20Salvador-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20AI-blueviolet?style=for-the-badge" />
+  <sub>
+    📍 San Salvador, El Salvador &nbsp;·&nbsp; 💼 5+ years &nbsp;·&nbsp; 🚀 30 systems shipped &nbsp;·&nbsp; 🔐 Security-focused
+  </sub>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Software Engineer based in **San Salvador, El Salvador**, specializing in building **scalable SaaS solutions** that solve real-world problems. With over **5 years of experience** leading and developing end-to-end projects for companies in the **United States and El Salvador**.
+Software Engineer based in **San Salvador, El Salvador**. I design and ship **production systems** — from multi-tenant SaaS platforms to mission-critical software running in **banking, cooperative and NGO environments**. Over **5 years** delivering end-to-end projects for companies across the **United States and Central America**.
+
+I work across the whole lifecycle: requirements, architecture, implementation, security, deployment and client-facing delivery.
 
 - 🎯 **Current Role:** Software Development Project Manager & Full Stack Engineer at **eAutoClub, Inc.** (California, USA)
-- 🔭 **Working on:** SaaS platforms for automotive industry, AI automation systems
-- 🌱 **Learning:** Docker, Kubernetes, Advanced AI integrations (ElevenLabs, OpenAI)
-- 💼 **Specialization:** MERN Stack, React Native, AI Automation, Project Management
-- 📚 **Education:** Software Engineering - ITCA-FEPADE (CUM Laude)
-- 🎓 **Continuous Learning:** 34+ certifications on Platzi (JavaScript, React, Node.js, Scrum, n8n, Testing)
+- 🔭 **Working on:** Digital document signing for financial institutions, AI voice & chat agents, multi-tenant SaaS
+- 🌱 **Currently deepening:** Kubernetes, applied cryptography, self-hosted LLM infrastructure
+- 💼 **Specialization:** MERN Stack · AI Integration (cloud & self-hosted) · Real-time Systems · Applied Security
+- 📚 **Education:** Software Engineering — **ITCA-FEPADE (CUM Laude)**
+- 🎓 **Continuous Learning:** 35 verified certifications · 485+ documented hours (Google Cloud Generative AI, Claude Code, n8n, React, Node.js, Scrum, Testing)
 - 🌍 **Languages:** Spanish (native), English (professional proficiency)
 - 📫 **Reach me:** rafaelvady.q@gmail.com
 
@@ -35,142 +39,439 @@ Software Engineer based in **San Salvador, El Salvador**, specializing in buildi
 
 ### 🛠️ Tech Stack
 
-#### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-#### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-181818?style=for-the-badge&logo=anthropic&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Lumen5](https://img.shields.io/badge/Lumen5-00C4CC?style=for-the-badge&logo=video&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
-
-#### DevOps & Cloud
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-#### Project Management
-
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaDev-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev-IT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,ts,js,vite,redux,tailwind,materialui,html,css&theme=dark)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,php,prisma,npm,bash&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps & Tooling**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,git,github,nginx,postman,linux&theme=dark)](https://skillicons.dev)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaDev-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+#### 🤖 AI & Automation
+
+| | |
+| --- | --- |
+| **Cloud APIs** | OpenAI API · Google Gemini · Claude · ElevenLabs |
+| **Self-hosted models** | **Ollama** · **GPT-OSS** · open-weight LLMs · on-prem inference |
+| **Retrieval & orchestration** | RAG pipelines · Pinecone (vector DB) · embeddings · n8n |
+| **Messaging & workflow** | Twilio (SMS/WhatsApp) · Web Push · Zapier · Make |
+
+#### 🔐 Security
+
+| | |
+| --- | --- |
+| **Cryptography** | RSA-2048 (OAEP/SHA-256) · AES-256-GCM · SHA-256 · bcrypt |
+| **Auth & access** | JWT (HS256) · OAuth 2.0 · OTP / MFA · RBAC with record-level ownership |
+| **Hardening** | Helmet · CORS allow-lists · rate limiting · input sanitization (NoSQL / XSS) · OWASP practices |
+
+#### 📊 Ways of Working
+
+Agile · Scrum · Jira · technical proposals · requirements analysis · sprint planning · international team coordination
+---
+
+### 🏆 Engineering Highlights
+
+Things I've built that go beyond standard CRUD work:
+
+| | Highlight |
+|---|---|
+| 🔐 | **End-to-end encryption layer** (RSA-2048 OAEP + AES-256-GCM) on top of HTTPS, designed to pass banking security audits — transparent to controllers and UI components |
+| 🔏 | **Auditable electronic signature** using SHA-256 checksums derived from timestamp, client IP, OTP and document correlative — reproducible and verifiable from stored data |
+| ⚙️ | **Safe concurrency on SQL Server** — pessimistic locking (`UPDLOCK`, `READPAST`) plus unique constraints and retry logic for atomic queue numbering under load |
+| 📄 | **HTML-to-PDF rendering engine** — custom Thymeleaf-style template processor (Cheerio) + Puppeteer, generating signed documents at scale |
+| 🧠 | **RAG pipelines** with vector databases + OpenAI embeddings, orchestrated through n8n |
+| 🖥️ | **Self-hosted LLM inference** — private models running on my own infrastructure via **Ollama** (GPT-OSS and other open-weight models): zero per-token cost, no data leaving the client's network, and a viable path for regulated environments where sending data to a third-party API is not an option |
+| 🔀 | **Provider-agnostic AI layer** — same application logic served by cloud APIs (OpenAI, Gemini, Claude) or a local model, so the deployment decides the trade-off between cost, latency and privacy |
+| 🗣️ | **Automated AI voice agent provisioning** — website scraping → knowledge base → ElevenLabs agent creation, fully programmatic |
+| 🔄 | **Real-time systems** with Socket.IO — room-based event routing, live dashboards, push notifications |
+| ☸️ | **Containerized delivery** — Docker multi-stage builds, Kubernetes on AWS EKS, CI/CD with GitHub Actions |
+| 🔍 | **Automatic database introspection** — schema and relationship inference across MongoDB and SQL Server |
+| 📊 | **Observability** — structured logging with PII redaction (pino), in-memory metrics with p50/p95 histograms, immutable audit trails |
 
 ---
 
-### 🚀 Featured Projects
+### 🔐 Security Engineering
 
-#### 🤖 AI Voice Agent Platform
+Security is a core part of how I build, not an afterthought. I've designed and shipped systems for **banking, cooperative and enterprise environments** where the security model had to survive external review.
 
-> SaaS platform for creating custom AI voice conversational agents with automated knowledge base generation and subscription management.
+#### Applied Cryptography
 
-**Tech Stack:** React.js, Node.js, Express, MongoDB, ElevenLabs API, JWT, Payment Gateway, PWA
+- **Hybrid end-to-end encryption layer** — RSA-2048 (OAEP/SHA-256) handshake to exchange a session key, then **AES-256-GCM** for every request and response payload, on top of HTTPS. Built to pass banking security audits.
+- **Transparent by design** — implemented as an Express middleware plus an Axios interceptor, so controllers and UI components never handle ciphertext. Independent encrypted sessions per client app.
+- **Session key hygiene** — keys live **in memory only**, never in `localStorage`, `sessionStorage` or cookies. Unique IV per operation, GCM auth tag verified on every message, automatic re-handshake on expiry.
+- **Encryption at rest** — database connection strings stored AES-256-GCM encrypted, excluded from queries by default and stripped from every API response.
+- **Auditable electronic signature** — SHA-256 checksum derived from timestamp, client IP, OTP code, document ID and a server secret. Fully **reproducible** from stored values, so a signature can be verified months later.
+- **Password hashing** — bcrypt with 10–12 salt rounds, never logged, never returned.
 
----
+#### Application Security
 
-#### 🏥 Medical Clinic Management System
+- **SQL injection** — 100% parameterized queries with explicit typing. Never string concatenation.
+- **NoSQL injection** — `express-mongo-sanitize` plus field whitelisting on every filterable parameter.
+- **XSS** — DOM construction via `createElement` instead of HTML template literals, with regex validation on untrusted values.
+- **Input validation** — schema validation (Zod, express-validator) at the boundary; server-side revalidation of anything an AI model or client produces.
+- **Transport & headers** — Helmet, CORS allow-lists (never wildcards), request size limits, rate limiting (global plus stricter on auth endpoints).
+- **Secrets management** — environment-based configuration, Kubernetes Secrets and ConfigMaps, no credentials in source control.
 
-> Complete clinic management solution with role-based dashboards for doctors, receptionists, and administrators, featuring clinical records and appointment scheduling.
+#### Authentication & Access Control
 
-**Tech Stack:** React.js, Node.js, Express, MongoDB, AWS S3, JWT Authentication
+- **JWT** with pinned algorithm, validated secret strength at boot, and re-verification that the user still exists and is active on every request.
+- **Multi-factor via OTP** — one-time codes over SMS and email, with reset-on-reopen semantics and translated, non-enumerable error messages.
+- **RBAC with ownership rules** — role guards at the route layer plus record-level ownership checks in the service layer (e.g. a seller can only modify records assigned to them).
+- **Token-based public portals** — expiring, single-purpose links that let external users act without holding an account.
 
----
+#### Auditability & Compliance
 
-#### ✂️ Barbershop Reservation System
+- **Immutable audit trails** — append-only event tables and an admin action log capturing user, action, entity, IP and timestamp for every write.
+- **PII redaction in logs** — structured logging (pino) that strips national IDs, passwords and authorization headers before anything is written.
+- **Data protection alignment** — designed around El Salvador's Personal Data Protection Law: data processor responsibilities, ARCO rights, confidentiality and secure disposal clauses in contracts.
+- **Idempotent, versioned migrations** — guarded schema changes safe to re-run against production databases.
 
-> Online reservation and management platform with real-time scheduling, payment integration, and automated SMS notifications.
+#### Security Review
 
-**Tech Stack:** React.js, Node.js, Express, MongoDB, Firebase, Twilio API, JWT, OAuth
-
----
-
-#### 🍴 Restaurant Management Software
-
-> Comprehensive solution for managing dine-in and delivery orders with real-time table control and kitchen display system.
-
-**Tech Stack:** React.js, Node.js, Express, PostgreSQL, Firebase, WebSockets, Payment Gateway
-
----
-
-#### 🏘️ Residential Access Manager
-
-> Access control system for residential communities with visit scheduling, guard management, and report generation capabilities.
-
-**Tech Stack:** React.js, Node.js, Express, MongoDB, Zustand, JWT, jsPDF, xlsx
-
----
-
-#### 🚗 SaaS Platform - eAutoClub
-
-> Enterprise SaaS platform for the automotive industry with CRM, process automation, and multi-location support.
-
-**Tech Stack:** React.js, Node.js, TypeScript, SQL Server, Redux
+- Performed **internal security audits** of inherited codebases, identifying and documenting SQL injection, hardcoded credentials, wildcard CORS and missing test coverage — with remediation scope and effort estimates before any redeployment.
 
 ---
 
-### 📂 Additional Projects
+### 🌐 Live Systems
 
-#### 💇‍♀️ Beauty Salon & SPA Reservation System
+Systems currently deployed and reachable — click through and try them:
 
-> Online booking system with service management, stylist profiles, and automated client notifications.
+| System | Live | What it is |
+| --- | --- | --- |
+| 🛒 **Smart Automotive E-commerce** | [lubrifiltros-menjivar.web.app](https://lubrifiltros-menjivar.web.app/) | Parts catalog with vehicle fitment search (44k+ configs) |
+| 🔧 **Repair Shop Management SaaS** | [sistema-talleres.web.app](https://sistema-talleres.web.app/) | Multi-tenant workshop platform |
+| 🗣️ **AI Voice Agent Generator** | [generador-ai.web.app](https://generador-ai.web.app/) | Self-service voice agent provisioning |
+| 📱 **PostPilot AI** | [ai-postpilot.web.app](https://ai-postpilot.web.app/) | Social media scheduling with RAG |
+| 🏥 **Clinic Management & EHR** | [sistemaclinico.com](https://sistemaclinico.com/) | Electronic health records + appointments |
+| 🩺 **Family Health Tracker** | [nancycontigo.com](https://nancycontigo.com/) | Health monitoring with AI assistant |
+| 🚗 **Ride Booking Platform** | [agendaviaje.com](https://agendaviaje.com/) | Bookings for independent drivers |
+| 🏘️ **Residential Access Control** | [residencial-vp.web.app](https://residencial-vp.web.app/) | QR visitor access + security |
+| 📊 **Lead Management CRM** | [lead-marketing-center.web.app](https://lead-marketing-center.web.app/) | 9-stage sales pipeline |
+| ✂️ **Multi-Branch Booking** | [citas-malacate.web.app](https://citas-malacate.web.app/) | Appointments for barbershops & salons |
+| 🌐 **Corporate Platform + Voice AI** | [Live site](https://consoltechsv.com/) | Bilingual platform with embedded voice agent |
 
-**Tech Stack:** React.js, Node.js, Express, Twilio API
+> **Start here:** the banking signing platform, the multi-branch queue system and the smart automotive catalog are the three that best show what I can build. Everything below is ordered by depth, not by date.
 
 ---
 
-#### 🚗 Vehicle Rental Management System
+### 🚀 Featured Work
 
-> Fleet management platform with automated contract generation, damage tracking, and online payment processing.
+#### 🏦 Digital Client Onboarding & Document Signing Platform — Banking
 
-**Tech Stack:** React.js, Node.js, Express, PostgreSQL, AWS S3
+> Mission-critical platform for a Salvadoran financial institution. Four independent product flows (loans, national accounts, international accounts, credit pre-qualification) covering **21 digital documents**. Admins fill and sign forms, clients verify via OTP and sign remotely; the system renders PDFs, emails them and archives them in S3 with a full audit trail.
+
+**Highlights:** end-to-end RSA-2048 + AES-256-GCM encryption · SHA-256 electronic signature · OTP verification (SMS & email) · 34 idempotent database migrations · admin audit log · Kubernetes deployment
+
+**Tech Stack:** React 19, Vite, Zustand, Node.js, Express, SQL Server (`mssql`), Puppeteer, pdf-lib, AWS S3, Docker, Kubernetes (EKS), GitHub Actions
 
 ---
 
-#### 🛒 E-commerce SaaS Platform
+#### 🎫 Multi-Branch Customer Flow & Queue Management System — Financial Cooperative
 
-> Multi-tenant e-commerce solution with admin dashboard, product catalog, and integrated payment processing.
+> Complete ticketing and queue platform for a savings cooperative with **9 branches**. Covers self-service kiosk, staff console, public TV display with voice announcements, mobile ticket tracking via QR, and an admin panel with KPIs.
 
-**Tech Stack:** React.js, Node.js, MongoDB, Firebase, Payment Gateway
+**Highlights:** atomic ticket numbering under concurrency · automatic no-show and end-of-day jobs · immutable event auditing · offline-resilient public display · structured logging with PII redaction
+
+**Tech Stack:** React, Vite, Zustand, Node.js, Express, Sequelize, SQL Server, Socket.IO, pino
+
+---
+
+#### 🗺️ Geospatial Impact Monitoring & Territorial Management Platform — International NGO
+
+> Interactive map and administrative dashboard tracking intervention zones, community assets and partners across El Salvador's official territorial hierarchy (14 departments → 44 municipalities → 262 districts).
+
+**Tech Stack:** React 19, Vite, Zustand, Leaflet, Recharts, Node.js, Express, SQL Server, JWT
+
+---
+
+#### 💬 Embeddable Community Reporting & Feedback System — International NGO
+
+> Floating widget embeddable into any website to collect community feedback, complaints and reports. Dynamic conditional question flow, session heartbeat detection and automated cleanup of abandoned sessions.
+
+**Tech Stack:** React 19, Vite, Styled Components, Framer Motion, Node.js, Express, **Prisma**, PostgreSQL
+
+---
+
+#### 🚜 Heavy Equipment Maintenance, Fleet & Spare-Parts Management System
+
+> Full-stack platform digitalizing damage reporting, preventive maintenance and spare-parts inventory for a heavy machinery company — replacing a process previously run over WhatsApp and spreadsheets.
+
+**Highlights:** Kanban drag & drop · guided chatbot for report creation · maintenance scheduling by operating hours · dedicated technician portal · client-side image compression · WebRTC camera capture
+
+**Tech Stack:** React 19, Vite, Zustand, Recharts, Node.js, Express, MongoDB, Socket.IO, jsPDF, PWA
+
+---
+
+#### 🔧 Automotive Repair Shop Management Suite — Multi-Tenant SaaS
+
+🔗 **[Live](https://sistema-talleres.web.app/)**
+
+> Automotive workshop platform supporting multiple isolated shops on a single instance, with **self-service onboarding and payment** that automatically provisions the shop and its admin account. 17 data models, 30 screens, 341+ service catalog.
+
+**Highlights:** work orders, quotes, inventory, vehicle inspections (Kanban), preventive maintenance reminders, public customer portal with appointment booking, real-time notifications
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, MongoDB, Socket.IO, payment gateway (webhook + HMAC-SHA256), PWA
+
+---
+
+#### 🤖 AI Voice Agent Provisioning & Subscription Platform
+
+> Subscription platform where a business signs up and gets a fully configured AI voice agent. The system scans their website, builds a knowledge base from URLs and uploaded documents (PDF/TXT/DOCX), and provisions the agent automatically.
+
+**Highlights:** automated ElevenLabs agent creation · website crawler · knowledge base deduplication · real-time agent status tracking · subscription lifecycle & payment integration · PWA
+
+**Tech Stack:** React, Node.js, Express, MongoDB, ElevenLabs API, Stripe, JWT, Nodemailer
+
+---
+
+#### 🗣️ AI Voice Agent Platform with Client Self-Service Portal — Spanish Market
+
+🔗 **[Live](https://generador-ai.web.app/)**
+
+> Spanish-language voice agent platform with a full client-facing portal. Businesses subscribe, configure their agent and manage it from their own dashboard, with a separate administrative back office.
+
+**Highlights:** installable PWA · three-tier role system (admin, super admin, client) · dedicated client dashboard · unified authentication · fully localized interface and communications · custom toast notification system
+
+**Tech Stack:** React, Node.js, Express, MongoDB, ElevenLabs API, JWT, Service Workers, PWA
+
+---
+
+#### 🎓 Institutional AI Assistant & Admin Portal — Higher Education
+
+> Conversational assistant embedded in an institution's public website, answering admissions, tuition, requirements and calendar questions 24/7 by **voice, text or both** — plus a full administration portal so non-technical staff run it themselves.
+
+**Highlights:** 16-module admin portal (voice selection, tone and pacing, language and accent, interaction mode, knowledge base, master instructions editor, conversation history with audio playback, metrics, information-gap detection, users and permissions) · answers grounded strictly in institution-supplied documents · email escalation with contact capture · installable PWA · one-line website embed, fully reversible
+
+**Tech Stack:** React, Vite, Zustand, Node.js, Express, MongoDB, ElevenLabs, n8n, Pinecone (RAG), OpenAI/Gemini, embeddable widget
+
+---
+
+#### 🧒 Dual-Audience Conversational AI Platform — International NGO
+
+> Dual-module conversational AI platform sharing one knowledge base and infrastructure, serving two very different audiences: **children and adolescents** producing personalized communications (letters, cards, video scripts) for their sponsors, and **field volunteers** consulting methodologies and training material.
+
+**Highlights:** voice-first interaction designed for children (no typing required) with warm synthesized speech · regional personalization by country (idioms, accent) · thematic prompting and draft generation · photography and video guidance for volunteers · configurable knowledge base from institutional documents
+
+**Tech Stack:** ElevenLabs Conversational AI (STT + LLM + TTS), n8n, RAG pipeline, React, Node.js, MongoDB
+
+---
+
+#### 🧩 Skema — No-Code REST API Builder for MongoDB & SQL Server
+
+> Platform for building live REST APIs over existing databases without writing code. Connect a database, define endpoints visually (verb + route + collection + filters + relations + validation), and they run instantly.
+
+**Highlights:** two-plane architecture (control plane / data plane) · **multi-engine: MongoDB and SQL Server** · automatic schema introspection and relationship detection · recursive joins (`$lookup` in Mongo, correlated `FOR JSON PATH` in SQL) producing identical nested output · connection strings encrypted at rest with AES-256-GCM
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, Mongoose, MongoDB driver, `mssql`, JWT
+
+---
+
+#### 📱 PostPilot AI — Social Media Scheduling & AI Content Generation (RAG)
+
+🔗 **[Live](https://ai-postpilot.web.app/)**
+
+> SaaS platform to schedule, generate and analyze social media content using Retrieval Augmented Generation over each client's own knowledge base.
+
+**Tech Stack:** React 18, Vite, MUI, Zustand, Node.js, Express, MongoDB, **Pinecone**, OpenAI embeddings, n8n webhooks, node-cron
+
+---
+
+#### ⚓ Maritime RFQ-to-Quote Automation Platform
+
+> Quoting platform for a marine spare-parts distributor. Requests for quotation arrive from vessels through a marketplace API; the system interprets the free-text fields with AI, matches parts against the catalogue, prices them deterministically, and publishes the quote back — with a human approval gate before anything goes out.
+
+**Highlights:** **AI handles language, never arithmetic** — currency conversion, hedging, margin and freight are computed by a deterministic pricing engine, not a model · schema-constrained matching where the model must pick a catalogue ID or return `null`, making invented part numbers structurally impossible · hybrid search (exact, fuzzy and semantic) · human-in-the-loop approval screen · every quote audited against the exchange rate and rules in force that day · CRM deal creation with PDF attachment
+
+**Tech Stack:** React, Node.js, Express, MongoDB, OpenAI (structured outputs), Zod, vector search, marketplace & CRM API integrations
+
+---
+
+#### 📈 Multi-Endpoint Service Uptime & Performance Monitoring System
+
+> Uptime and response-time monitoring across all customer locations for four core services. Each module probes **every endpoint its real screen loads** (7–8 per module), so results reflect actual user experience rather than a single health check.
+
+**Highlights:** multi-endpoint parallel monitoring · consecutive-failure alerting via email and SMS · cron scheduling with blackout dates · real-time dashboard
+
+**Tech Stack:** React 19, MUI + DataGrid, Recharts, Node.js, Express 5, MongoDB, Socket.IO, node-cron, Twilio, Docker
+
+---
+
+#### 📮 Geo-Targeted Direct Mail & Address Intelligence Platform
+
+> Marketing tool that finds residential addresses within a configurable radius of a business location, with advanced filtering and batch export. Runs embedded as an iframe inside a parent SaaS, communicating via `postMessage`.
+
+**Tech Stack:** React 18, Vite, React-Leaflet, Node.js, Express, MongoDB, Melissa Data API (address verification & geocoding)
+
+---
+
+#### 🏥 Clinic Management & Electronic Health Records System
+
+🔗 **[Live](https://sistemaclinico.com/)**
+
+> Clinic management platform with role-based dashboards for doctors, receptionists and administrators — electronic health records, appointments, vital signs, prescriptions and document storage with presigned URLs.
+
+**Tech Stack:** React 19, React Router 7, Tailwind, Recharts, Node.js, Express 5, MongoDB, AWS S3, Twilio, PDFKit, QR
+
+---
+
+#### 📅 Multi-Branch Medical Scheduling & Patient Booking System
+
+> Appointment platform for a multi-branch medical institute: public booking without an account, automatic detection of returning patients, doctor availability with weekly schedules and time-off rules, WhatsApp reminders and token-based public confirmation links.
+
+**Highlights:** public booking flow with slot generation driven by each doctor's availability · three-role access model (patient, doctor, receptionist) with automatic record filtering · token-based confirmation page · light/dark theme · PWA
+
+**Tech Stack:** React 18, Vite, React Router 6, Zustand, PWA
+
+---
+
+#### 🏘️ Residential Visitor Access Control & Security System
+
+🔗 **[Live](https://residencial-vp.web.app/)**
+
+> Visitor access control for gated communities: unique QR codes per visit, camera-based scanning with automatic entry/exit detection, real-time notifications and exportable reports.
+
+**Tech Stack:** React 19, Zustand, Framer Motion, Node.js, Express 5, MongoDB Atlas, Socket.IO, Twilio SMS, QR
+
+---
+
+#### 🩺 Family Health Monitoring & Clinical Risk Assessment Platform
+
+🔗 **[Live](https://nancycontigo.com/)**
+
+> Multi-profile health monitoring with an AI assistant, automatic critical-value alerts and clinical risk calculators (BMI, ASCVD, eGFR, HOMA-IR, FINDRISC, Framingham).
+
+**Tech Stack:** React 18, Vite, Tailwind, Recharts, Node.js, Express, MongoDB, Google Gemini, Cloudinary, PWA
+
+---
+
+#### 📊 Sales Pipeline & Lead Management CRM
+
+🔗 **[Live](https://lead-marketing-center.web.app/)**
+
+> Sales CRM with a 9-stage pipeline, role-based access control with per-lead ownership rules, dated follow-up log, and bulk import from Excel and Meta Ads with idempotency hashing.
+
+**Tech Stack:** React 18, Vite, Zustand, drag & drop Kanban, Node.js, Express, MongoDB, Zod, Twilio, Nodemailer
+
+---
+
+#### 🛒 Smart Automotive E-commerce with Vehicle Fitment Search (YMME)
+
+🔗 **[Live](https://lubrifiltros-menjivar.web.app/)**
+
+> Full e-commerce platform for an automotive parts distributor, built around a **vehicle-first catalog**: the customer identifies their car (Make → Model → Year → Engine version) and sees **only the parts that actually fit it**. Backed by a vehicle database of **44,658 technical configurations** covering **18,507 searchable vehicles** across **154 makes, 1981–2026**.
+
+**The engineering problem:** commercial fitment databases (ACES/VCdb) cost thousands per year. I built the equivalent coverage from **three free official sources** — the NHTSA vPIC VIN decoder (reconstructed Year/Make/Model from VIN pattern tables), the EPA fuel economy dataset (engine displacement, cylinders, fuel, drivetrain, transmission), and CarAPI — unified into one deduplicated collection with idempotent import pipelines. Achieved **~83% engine-level coverage** of the local vehicle fleet at **zero data cost**.
+
+**Highlights:**
+- **Config-level fitment** — compatibility is matched on a canonical engine signature (`liter|cylinders|fuel|aspiration|driveType|transmission`), so a CVT fluid never shows up for a manual gearbox of the same engine
+- **Rule-based compatibility** (make + model + year range + engine configs) instead of millions of rows — one rule covers hundreds of vehicles
+- **Compatibility suggestion assistant** — when an admin tags a product, the system proposes other vehicles likely to share the same engine, ranked by confidence, with the reasoning shown and nothing auto-applied
+- **Year-aware version picker** — only offers engine variants that actually existed in the selected year range
+- Accent-insensitive substring search with AND-per-word matching · PWA with offline fallback and service-worker update flow · full SEO with JSON-LD structured data (`AutoPartsStore`, `Organization`, `WebSite`) · payment gateway with OAuth2 + redirect verification · guest cart merging on login · dynamic checkout (3 steps pickup / 4 delivery) · coupons, reviews, wishlist · soft-delete with restore and reassignment · admin invariants (cannot delete, block or demote the last administrator) · database-governed rate limiting (toggle without redeploy)
+
+**Tech Stack:** React 18, Vite 6, Zustand, Node.js, Express, MongoDB, **SQL Server** (vPIC source), Zod, Socket.IO, Wompi (OAuth2), Nodemailer, PWA, PDFKit
+
+---
+
+#### 🚗 Ride Booking & Driver Operations Platform
+
+🔗 **[Live](https://agendaviaje.com/)**
+
+> Booking platform where passengers reserve **without creating an account** through a driver's public link. Includes availability rules with buffers and overlap prevention, drag & drop calendar, public trip tracking and revenue KPIs.
+
+**Tech Stack:** React 18, Vite, Tailwind, Zustand, React Query, Node.js, Express, MongoDB Atlas, Web Push (VAPID), PWA
+
+---
+
+#### 🚙 Vehicle Rental & Fleet Contract Management System
+
+> Fleet management platform for vehicle rental operations: availability calendar, reservation handling, automated contract generation as PDF, photo-based damage inspection at pickup and return, insurance tracking and scheduled maintenance alerts.
+
+**Highlights:** automated contract generation with digital delivery · condition checklists with photographic evidence · fleet availability engine · maintenance and insurance expiry reminders · role-based admin panel
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, MongoDB, AWS S3, PDF generation, PWA
+
+---
+
+#### 🏛️ Corporate ERP — Secure Logistics & Valuables Transport
+
+> Custom ERP for a company operating armored transport, ATM servicing, courier and a payment collection network — replacing spreadsheet-driven accounting and operations. Designed around a single strategic indicator the client cares about: **contribution margin per business line**.
+
+**Highlights:** integrated accounting, finance, operations and inventory · per-business-line profitability analytics · role-based access with full traceability · designed against IFRS accounting standards and ISO 27001 security practices · reporting and dashboards for executive decision-making
+
+**Tech Stack:** React, Vite, Zustand, Node.js, Express, SQL Server, JWT, RBAC
+
+---
+
+#### 🎒 Academic Management System — Enrollment, Certification & Analytics
+
+> Turnkey academic management platform sized for **5,000 concurrent users** with a 99.5% availability target: online enrollment, QR-based event check-in, evaluations, surveys, digital certificates with public verification, real-time dashboards and integration APIs.
+
+**Highlights:** QR check-in that keeps working with unstable connectivity (offline-capable PWA) · publicly verifiable digital certificates · real-time analytics dashboards · REST APIs for LMS and CRM integration · compliance-oriented design (national data protection standard + ISO/IEC 27001) · installable on mobile without app stores
+
+**Tech Stack:** React, Vite, Node.js, Express, PostgreSQL, JWT, QR, PWA, REST integration APIs
+
+---
+
+#### 🔐 HR & Occupational Safety System — Steel Industry
+
+> Internal enterprise system covering employees, departments, positions, vacation management under Salvadoran labor law, hazard zones, vaccinations and training sessions with printable signed attendance.
+
+**Highlights:** custom end-to-end encryption (RSA-2048 + AES-256-GCM) · on-premise deployment with no third-party cloud
+
+**Tech Stack:** React 18, Vite, Zustand, Node.js, Express, SQL Server, JWT, bcrypt, PWA
+
+---
+
+#### ✂️ Multi-Branch Appointment & Staff Management System — Barbershops, Salons & Spas
+
+🔗 **[Live](https://citas-malacate.web.app/)**
+
+> Multi-branch appointment platform: public booking wizard (branch → professional → time slot), token-based confirmation via WhatsApp, staff directory with inter-branch transfers and KPI dashboard.
+
+**Tech Stack:** React 18, Vite, React Router 6, Zustand, PWA
+
+---
+
+#### 🎟️ Helpdesk & Support Ticket Management System
+
+> Support ticket platform with role-based workflows for administrators, agents and end users: ticket lifecycle management, priorities and categories, agent assignment, threaded comments with change history and real-time reporting dashboards.
+
+**Highlights:** configurable ticket states and priorities · agent assignment and escalation · attachment support · audit history per ticket · exportable performance reports
+
+**Tech Stack:** React, Vite, Zustand, React Query, Tailwind, Node.js, Express, MongoDB, JWT
+
+---
+
+#### 🌐 Bilingual Corporate Platform with Embedded Voice AI
+
+🔗 **[Live](https://consoltechsv.com/)**
+
+> Bilingual corporate site with an embedded conversational voice agent visitors can talk to directly in the browser. Fully typed frontend with scroll-driven animations, dynamic service detail pages and complete SEO infrastructure.
+
+**Highlights:** full ES/EN internationalization (17 translation namespaces per language) · embedded ElevenLabs voice widget · scroll-scrub frame animation · dynamic per-service landing pages · sitemap, robots, Open Graph and `llms.txt` for AI crawlers · legal pages (privacy, terms, security)
+
+**Tech Stack:** React 18, **TypeScript**, Vite, Tailwind, Framer Motion, i18next, ElevenLabs Widget
+
+---
+
+#### 🍴 Restaurant POS & Digital Ordering System
+
+> Digital menu with QR ordering, table and sub-account management, waiter module with employee traceability, and role-based panels for kitchen, cashier and admin.
+
+**Tech Stack:** React SPA, PHP REST API (PDO), MySQL, Firebase Storage, payment gateway
 
 ---
 
@@ -180,7 +481,7 @@ Software Engineer based in **San Salvador, El Salvador**, specializing in buildi
 
 **eAutoClub, Inc.** | California, USA (Remote) | _2022 - Present_
 
-Leading development of enterprise SaaS platforms for the automotive industry, coordinating international teams using Agile/Scrum methodologies, and driving technical innovation with modern full-stack technologies.
+Leading development of enterprise SaaS platforms for the automotive industry, coordinating international teams with Agile/Scrum, and driving technical innovation across the full stack. Designed and built the AI voice agent platform, the service monitoring system and the geo-targeted direct mail platform listed above.
 
 ---
 
@@ -200,31 +501,44 @@ Built full-stack solutions with React.js and Node.js, implementing automation sy
 
 ---
 
-#### 🌐 Freelance Web Developer
+#### 🌐 Independent Software Consultant
 
-**Independent** | Remote
+**Freelance** | El Salvador & Remote | _2021 - Present_
 
-Delivered custom administrative web applications with modern UI frameworks, focusing on responsive design and exceptional user experience.
+Design and deliver custom software for clients across El Salvador and Central America — multi-tenant SaaS platforms, AI conversational agents, e-commerce and enterprise systems for banking, cooperative, NGO and industrial sectors. End-to-end ownership: requirements, architecture, implementation, security and delivery.
 
 ---
 
 ### 🌟 What I Build
 
-- 🤖 **AI-Powered Applications** - Voice agents with ElevenLabs, chatbots with OpenAI/Gemini/Claude
-- 🔄 **Workflow Automation** - n8n, Zapier, Make integrations for business process automation
-- 📱 **Communication Systems** - SMS/WhatsApp integration with Twilio API
-- 🎥 **AI Video Creation** - Lumen5 integration for automated video content generation
-- 🏥 **Healthcare Solutions** - Medical clinic management, clinical records, appointment systems
-- 🏢 **SaaS Platforms** - Scalable, subscription-based enterprise applications
-- 📅 **Booking Systems** - Reservation platforms for salons, barbershops, restaurants
-- 🛒 **E-commerce Solutions** - Multi-tenant platforms with payment integration
-- 🚗 **Rental Management** - Vehicle and asset rental systems with contract automation
-- 🏘️ **Access Control Systems** - Residential security with role-based permissions
-- 🔐 **Secure Authentication** - JWT, OAuth, social login implementations
-- 💳 **Payment Integrations** - Stripe, PayPal, Wompi gateway implementations
-- 📊 **Admin Dashboards** - Real-time analytics with interactive visualizations
-- ☁️ **Cloud Solutions** - AWS S3, Firebase, Render deployments
-- 📱 **Progressive Web Apps** - Installable, offline-capable web applications
+- 🔐 **Security-Critical Systems** — end-to-end encryption, auditable electronic signatures, compliance-ready audit trails
+- 🤖 **AI-Powered Applications** — voice agents (ElevenLabs), chatbots and RAG pipelines (OpenAI, Gemini, Claude, vector databases)
+- 🖥️ **Private & On-Premise AI** — self-hosted open-weight models (Ollama, GPT-OSS) for clients who cannot send data to third-party APIs
+- 🔄 **Workflow Automation** — n8n, Zapier and Make orchestration for business processes
+- 🏢 **Multi-Tenant SaaS** — isolated tenants, self-service onboarding, subscription billing
+- ⚡ **Real-Time Systems** — Socket.IO event routing, live dashboards, push notifications
+- 📄 **Document Automation** — programmatic PDF generation, digital signing, cloud archiving
+- 📱 **Communication Systems** — SMS and WhatsApp integration via Twilio
+- 🗺️ **Geospatial Applications** — interactive mapping, geocoding, radius search
+- 🏥 **Healthcare Solutions** — clinical records, appointments, medical risk calculators
+- 📅 **Booking Platforms** — salons, barbershops, clinics, restaurants, transportation
+- 🛒 **E-commerce** — catalogs, carts, checkout and payment gateway integration
+- 📊 **Admin Dashboards** — real-time analytics with interactive visualizations
+- ☁️ **Cloud & DevOps** — Docker, Kubernetes, AWS, CI/CD pipelines
+- 📱 **Progressive Web Apps** — installable, offline-capable applications
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaDev-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev-IT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaDev-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -238,71 +552,87 @@ Delivered custom administrative web applications with modern UI frameworks, focu
 
 <div align="center">
 
-| Platform                                                                                                                  | Total Certifications | Period    |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- |
-| ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)                     | 34 Courses Completed | 2020-2025 |
-| ![Scrum Network](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white) | Scrum Essentials (TSE) | 2024      |
+| Issuer | Credentials | Period |
+| --- | --- | --- |
+| 🟢 **Platzi** | 31 courses · **485+ verified hours** | 2020 – 2026 |
+| ☁️ **Google Cloud** (via Coursera) | Generative AI | 2026 |
+| 🇸🇻 **Government of El Salvador** | Fullstack JavaScript · **280 h** | 2021 |
+| 🏅 **Scrum Network** | Scrum Essentials (TSE) | 2021 |
+
+**35 verified certificates** · every entry below is backed by an issued credential
 
 </div>
 
-#### 🏆 Professional Certifications
+#### 🏆 Flagship Credentials
 
-| Certification                                       | Issuer                             | Year | Credential                                                                         |
-| --------------------------------------------------- | ---------------------------------- | ---- | ---------------------------------------------------------------------------------- |
-| ☁️ **Scrum Essentials (TSE)**                         | Scrum Network                       | 2024 | [View Credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) |
-| 🎓 **Fullstack JavaScript Development** (280 hours) | Government of El Salvador & Platzi | 2021 | Official Diploma                                                                   |
+| Certification | Issuer | Date | Detail |
+| --- | --- | --- | --- |
+| 🎓 **Fullstack JavaScript Development** | **Innovation Secretariat, Government of El Salvador** + Platzi | Apr 2021 | Official state diploma · **280-hour** learning path |
+| ☁️ **Generative AI: Beyond the Chatbot** | **Google Cloud** (via Coursera) | Mar 2026 | [Verify](https://coursera.org/verify/ZM73AETT9Q5D) |
+| 🏅 **Trained in Scrum Essentials (TSE)** | Scrum Network | Jul 2021 | [View credential](https://www.credential.net/38317684-8f75-4369-9a57-cf80ed702b7a) · Cert. 35125072 |
 
-#### 📚 Recent Certifications (2023-2025)
+#### 🤖 AI & Automation
 
-| Course                               | Completed  | Category   |
-| ------------------------------------ | ---------- | ---------- |
-| 🔄 N8N Automation                    | July 2025  | Automation |
-| 🧪 Introduction to Test Automation   | Oct 2023   | Testing    |
-| 📊 Practical Project Management      | June 2023  | Management |
-| 📝 User Stories in Scrum             | March 2023 | Agile      |
-| 🎯 Professional Scrum                | March 2023 | Agile      |
-| ⚛️ Advanced React                    | March 2023 | Frontend   |
-| 🗄️ Node.js with MongoDB & WebSockets | March 2023 | Backend    |
+| Course | Issuer | Date | Hours |
+| --- | --- | --- | :---: |
+| Claude Academy | AVORA AI | Jun 2026 | — |
+| Claude Code | Platzi | Jan 2026 | 8 |
+| Generative AI: Beyond the Chatbot | Google Cloud | Mar 2026 | — |
+| n8n Workflow Automation | Platzi | Jul 2025 | 9 |
 
-#### 💻 Core Development (2020-2022)
+#### ⚛️ Frontend
 
-**JavaScript & Frontend:**
+| Course | Date | Hours |
+| --- | --- | :---: |
+| Advanced ReactJS | Mar 2023 | 24 |
+| Frontend Developer | Dec 2020 | 24 |
+| Professional JavaScript | Dec 2020 | 26 |
+| Fundamentals of JavaScript | Oct 2020 | 23 |
+| Basic JavaScript | Oct 2020 | 19 |
+| React JS (hands-on) | Dec 2020 | 15 |
+| React Router & Redux | Dec 2020 | 13 |
+| ECMAScript: History & Versions of JavaScript | Dec 2020 | 12 |
+| Asynchronous JavaScript | Dec 2020 | 7 |
 
-- Professional JavaScript (2020)
-- ECMAScript 6+ (2020)
-- Asynchronous JavaScript (2020)
-- React.js Practical (2020)
-- React Router 5 & Redux (2020)
-- Frontend Developer (2020)
-- JavaScript Fundamentals (2020)
-- Basic JavaScript (2020)
+#### 🔧 Backend & Databases
 
-**Backend & Node.js:**
+| Course | Date | Hours |
+| --- | --- | :---: |
+| Backend with Node.js | Dec 2020 | 24 |
+| Node.js: MongoDB Databases & WebSockets | Mar 2023 | 18 |
+| Introduction to C# | Mar 2022 | 18 |
+| Fundamentals of Node.js | Dec 2020 | 17 |
+| Server Side Rendering with Express | Dec 2020 | 17 |
+| Authentication with Passport.js | Dec 2020 | 17 |
+| Introduction to Backend Development | Mar 2022 | 9 |
 
-- Backend with Node.js (2020)
-- Node.js Fundamentals (2020)
-- Server Side Render with Express (2020)
-- Authentication with Passport.js (2020)
-- Introduction to Backend Development (2022)
-- Introduction to C# with .NET 3.1 (2022)
+#### 🧪 Quality, Tooling & Fundamentals
 
-**Tools & Best Practices:**
+| Course | Date | Hours |
+| --- | --- | :---: |
+| Basic Programming | Mar 2022 | 34 |
+| Professional Git & GitHub | Dec 2020 | 22 |
+| Introduction to Test Automation | Oct 2023 | 15 |
+| Basic Computing & IT | Dec 2022 | 14 |
+| Logical Thinking: Algorithms & Flowcharts | Dec 2022 | 12 |
+| Prework: macOS Development Environment Setup | Dec 2020 | 7 |
 
-- Professional Git & GitHub (2020)
-- macOS Development Environment (2020)
-- Basic Programming (2022)
-- Algorithms & Flowcharts (2022)
+#### 📊 Agile & Project Management
 
-#### 🎯 Soft Skills & Management
-
-- Effective Time Management (2020)
-- Project Management Fundamentals (2020)
-- Strategies for Effective Online Learning (2020)
-- Basic Computing & IT (2022)
+| Course | Date | Hours |
+| --- | --- | :---: |
+| Practical Project Management | Jun 2023 | 13 |
+| Professional Scrum | Mar 2023 | 12 |
+| User Stories in Scrum | Mar 2023 | 9 |
+| Project Management Fundamentals | Dec 2020 | 15 |
+| Effective Time Management | Dec 2020 | 10 |
+| Strategies for Effective Online Learning | Oct 2020 | 15 |
 
 #### 🌟 Specialized
 
-- Bitcoin for El Salvador (2022)
+| Course | Date | Hours |
+| --- | --- | :---: |
+| Bitcoin for El Salvador | Nov 2022 | 7 |
 
 ---
 
@@ -320,27 +650,40 @@ Technical Skills:
   - Full Stack Development (MERN Stack)
   - Mobile Development (React Native)
   - RESTful API Design & Integration
-  - Database Design (SQL & NoSQL - MongoDB, PostgreSQL, MySQL, Firebase)
-  - AI Integrations (OpenAI, Google Gemini, Claude AI, ElevenLabs)
+  - Database Design (MongoDB, SQL Server, PostgreSQL, MySQL, Firebase)
+  - Applied Cryptography (RSA-2048 OAEP, AES-256-GCM, SHA-256, bcrypt)
+  - End-to-End Encryption Architecture (hybrid handshake, key lifecycle, encryption at rest)
+  - Application Security (OWASP: SQLi, NoSQLi, XSS, input validation, rate limiting)
+  - Authentication & Authorization (JWT, OAuth, OTP/MFA, RBAC with record-level ownership)
+  - Auditability & Compliance (immutable audit logs, PII redaction, data protection law)
+  - Security Code Review & Vulnerability Assessment
+  - AI Integrations (OpenAI API, Google Gemini, Claude AI, ElevenLabs)
+  - Self-Hosted LLMs (Ollama, GPT-OSS, open-weight models, on-prem inference)
+  - Provider-Agnostic AI Architecture (cloud API or local model, same codebase)
+  - Voice AI (speech-to-text, text-to-speech, voice cloning, conversational agents)
+  - RAG & Vector Databases (Pinecone, embeddings, knowledge base pipelines)
+  - Prompt Engineering & Structured Outputs (schema-constrained generation)
   - Workflow Automation (n8n, Zapier, Make)
-  - Communication APIs (Twilio - SMS/WhatsApp)
-  - Video AI Tools (Lumen5)
-  - Cloud Services (AWS S3, Firebase, Render)
-  - Payment Gateway Integration (Wompi, Stripe, PayPal)
-  - Web Scraping & Data Extraction
-  - Authentication & Security (JWT, OAuth)
+  - Real-time Systems (Socket.IO, WebSockets)
+  - Concurrency & Transactional Integrity (pessimistic locking, idempotency)
+  - Document Generation (Puppeteer, PDFKit, pdf-lib, template engines)
+  - Communication APIs (Twilio - SMS/WhatsApp, Web Push)
+  - Cloud Services (AWS S3, Firebase, Render, MongoDB Atlas)
+  - Containers & Orchestration (Docker, Kubernetes/EKS, GitHub Actions)
+  - Payment Gateway Integration (Stripe, Wompi, PayPal)
+  - Geospatial (Leaflet, geocoding, radius search)
+  - Observability (structured logging, metrics, audit trails)
+  - Authentication & Security (JWT, OAuth, RBAC, helmet, rate limiting)
   - Progressive Web Apps (PWA)
-  - Real-time Systems (WebSockets)
 
 Management Skills:
   - Agile/Scrum Methodologies
   - Technical Project Management
   - Team Leadership & Coordination
-  - Client Communication
-  - Requirements Analysis
+  - Requirements Analysis & Technical Proposals
+  - Client Communication & Stakeholder Management
   - Sprint Planning & Execution
-  - Cost Optimization
-  - Risk Management
+  - Cost Optimization & Risk Management
 
 Soft Skills:
   - Problem Solving
@@ -358,19 +701,23 @@ Soft Skills:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rafael-martinez-SV)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelvady.q@gmail.com)
-[![Platzi](https://img.shields.io/badge/Platzi-Follow-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/vlady-martinez/)
+<a href="https://linkedin.com/in/rafael-martinez-SV"><img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:rafaelvady.q@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="46" alt="Email" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/RafaDev-IT"><img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" /></a>
+
+**[platzi.com/p/vlady-martinez](https://platzi.com/p/vlady-martinez/)**
 
   <br/>
 
 **Open to:**
 
 - 💼 Full-time opportunities (Remote)
-- 🤝 Freelance projects
+- 🤝 Freelance & contract projects
 - 🚀 SaaS collaborations
-- 🤖 AI/Automation consulting
-- 🏥 Healthcare tech projects
+- 🤖 AI / Automation consulting
+- 🔐 Security-critical & fintech projects
 
 </div>
 
@@ -382,9 +729,9 @@ Soft Skills:
 
 <div align="center">
   <br/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20El%20Salvador-3B82F6?style=for-the-badge" />
+  <sub>Made with ❤️ in El Salvador 🇸🇻</sub>
   <br/><br/>
   <i>"Building solutions that matter, one line of code at a time."</i>
   <br/><br/>
-  <b>⚡ Available for SaaS projects, AI integrations, healthcare solutions, and technical consulting ⚡</b>
+  <b>⚡ Available for SaaS platforms, AI integrations, security-critical systems and technical consulting ⚡</b>
 </div>
